@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "next/image";
 import {
-  FaChevronRight,
   FaInstagram,
   FaWhatsapp
 } from "react-icons/fa6";
@@ -10,23 +9,23 @@ import AuthorLogo from '../../public/logovale.png'
 import {SocialLink} from "@/components/socialLink";
 import { BsPinMap } from "react-icons/bs";
 
-interface FooterLinkProps {
-  text: string;
-}
+// interface FooterLinkProps {
+//   text: string;
+// }
 
-function FooterLink({ text }: FooterLinkProps) {
-  return (
-    <p className="group flex cursor-pointer items-center justify-center gap-1">
-      <span
-        className="hidden group-hover:block group-hover:animate-spin text-warning"
-        style={{ animationIterationCount: 1, animationDuration: "0.3s" }}
-      >
-        <FaChevronRight size={12} />
-      </span>
-      {text}
-    </p>
-  );
-}
+// function FooterLink({ text }: FooterLinkProps) {
+//   return (
+//     <p className="group flex cursor-pointer items-center justify-center gap-1">
+//       <span
+//         className="hidden group-hover:block group-hover:animate-spin text-warning"
+//         style={{ animationIterationCount: 1, animationDuration: "0.3s" }}
+//       >
+//         <FaChevronRight size={12} />
+//       </span>
+//       {text}
+//     </p>
+//   );
+// }
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();

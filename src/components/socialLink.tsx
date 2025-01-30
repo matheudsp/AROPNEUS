@@ -16,7 +16,7 @@ interface SocialLinkProps {
 
 export function SocialLink({ href, icon, size, image, className}: SocialLinkProps) {
   return (
-    <Button size={size} variant={"shadow"} as={Link} href={href} target="_blank" className={cn(
+    <Button size={size} variant="shadow" as={Link} href={href} target="_blank" className={cn(
       "h-14",
       className
     )}>

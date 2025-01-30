@@ -17,8 +17,8 @@ const HeroSection = () => {
         <div className="flex flex-col xl:flex-row items-center justify-center gap-5 w-full">
           <Link href="#Services" className="w-full">
             <Button
-              variant={"bordered"}
-              size={"lg"}
+              variant="bordered"
+              size="lg"
               className="h-14 w-full uppercase text-white"
               endContent={<RiOilLine size={20} />}
               radius="sm"
@@ -29,9 +29,9 @@ const HeroSection = () => {
 
           <Link target="_blank" href="https://api.whatsapp.com/send?phone=5589994136771&fbclid=PAZXh0bgNhZW0CMTEAAab2GNA1G_ZhL4aLCycgnhp9oxR2iGcjOKWcqTX-N4W9UqLKM0YkvsbatGA_aem_YBzauHuc6RBUuj-Q_WcwKg" className="w-full">
             <Button
-              variant={"shadow"}
+              variant="shadow"
               color="primary"
-              size={"lg"}
+              size="lg"
               className="h-14 w-full uppercase text-white"
               endContent={<FaStar size={20} />}
               radius="sm"
