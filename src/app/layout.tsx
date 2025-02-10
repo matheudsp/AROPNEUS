@@ -4,7 +4,6 @@ import "./globals.css";
 import Header from "@/components/header";
 import UIProvider from "@/providers/UIProvider";
 import Footer from "@/components/footer";
-import DemoFlag from "@/components/demoFlag";
 const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -22,7 +21,7 @@ export default function RootLayout({
     <html lang="pt-BR">
       <body className={`${montserrat.className} maxContainer`}>
         <UIProvider>
-          <DemoFlag />
+          {/* <DemoFlag /> */}
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
