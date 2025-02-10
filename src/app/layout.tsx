@@ -5,6 +5,7 @@ import Header from "@/components/header";
 import UIProvider from "@/providers/UIProvider";
 import Footer from "@/components/footer";
 const montserrat = Montserrat({ subsets: ["latin"] });
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export const metadata: Metadata = {
   title: "AROPNEUS | A segurança nunca foi tão fácil!",
@@ -26,6 +27,7 @@ export default function RootLayout({
           <main className="flex-1">{children}</main>
           <Footer />
         </UIProvider>
+        <SpeedInsights />
       </body>
     </html>
   );
