@@ -7,7 +7,7 @@ import { MAPS_URL, whatsappUrl } from '@/lib/contact';
 const services = [
   { number: '01', title: 'Pneus', detail: 'O cuidado começa no contato com a estrada.', description: 'Pneus, alinhamento e balanceamento para você seguir com segurança.', icon: CircleDot, cta: 'Consultar pneus', message: 'Olá! Gostaria de consultar pneus para o meu carro. Modelo e medida: ' },
   { number: '02', title: 'Troca de óleo', detail: 'Motor e câmbio automático.', description: 'O óleo certo para o seu veículo. Consulte a aplicação e agende a troca.', icon: Droplets, cta: 'Agendar troca de óleo', message: 'Olá! Gostaria de agendar uma troca de óleo do motor ou câmbio automático. Meu veículo é: ' },
-  { number: '03', title: 'Coding VW / Audi', detail: 'Descubra novas funções no seu carro.', description: 'Personalização de funções eletrônicas. Consulte a compatibilidade do seu veículo.', icon: ScanLine, cta: 'Consultar compatibilidade', message: 'Olá! Tenho interesse em coding. Gostaria de consultar a compatibilidade. Modelo e ano do meu veículo: ' },
+  { number: '03', title: 'Coding VW / Audi', detail: 'Seu carro pode fazer mais do que você imagina.', description: 'Escolha seu modelo, veja exemplos e descubra opções para deixar o carro do seu jeito.', icon: ScanLine, cta: 'Descobrir funções do meu carro', href: '/coding' },
 ];
 
 export default function Home() {
@@ -30,12 +30,15 @@ export default function Home() {
       <section id="Services" className="services-area site-container" aria-labelledby="services-title">
         <div className="section-heading"><div><p className="eyebrow">CUIDADO EM CADA DETALHE</p><h2 id="services-title">O que seu carro precisa?</h2></div><p>Escolha o serviço. A gente cuida do resto.</p></div>
         <div className="service-grid">
-          {services.map(({ number, title, detail, description, icon: Icon, cta, message }) => (
-            <article className="service-item" key={number}>
+          {services.map(({ number, title, detail, description, icon: Icon, cta, message, href }) => (
+            <article className={`service-item${href ? ' service-item-coding' : ''}`} key={number}>
               <div className="service-top"><Icon size={34} strokeWidth={1.5} /><span>{number}</span></div>
               <h3>{title}</h3><p className="service-detail">{detail}</p><p className="service-description">{description}</p>
-              <a href={whatsappUrl(message)} target="_blank" rel="noopener noreferrer" className="service-link">{cta}<ArrowUpRight size={20} /></a>
-              {number === '03' && <Link className="coding-more" href="/coding">Ver funções disponíveis <MoveRight size={15} /></Link>}
+              {href ? (
+                <Link className="coding-cta" href={href}><span>{cta}</span><MoveRight size={22} /></Link>
+              ) : (
+                <a href={whatsappUrl(message)} target="_blank" rel="noopener noreferrer" className="service-link">{cta}<ArrowUpRight size={20} /></a>
+              )}
             </article>
           ))}
         </div>

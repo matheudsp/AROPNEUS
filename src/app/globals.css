@@ -103,8 +103,14 @@ h2 { font-size: clamp(28px, 3vw, 38px); font-weight: 800; letter-spacing: -.04em
 .service-detail { font-size: 13px; font-weight: 600; margin-top: 8px; }
 .service-description { font-size: 13px; line-height: 1.8; color: #666; margin: 14px 0 28px; flex: 1; }
 .service-link { display: flex; align-items: center; justify-content: space-between; gap: 8px; min-height: 44px; font-size: 13px; font-weight: 700; color: #c70818; border-top: 1px solid #eee; padding-top: 14px; }
-.service-link:hover, .coding-more:hover { text-decoration: underline; }
-.coding-more { display: flex; align-items: center; gap: 8px; font-size: 12px; margin-top: 12px; min-height: 32px; }
+.service-link:hover { text-decoration: underline; }
+.service-item-coding { background: #fff5f5; }
+.service-item-coding .service-detail { font-size: 21px; font-weight: 750; line-height: 1.4; letter-spacing: -.025em; }
+.service-item-coding .service-description { font-size: 14px; color: #494949; }
+.coding-cta { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 56px; padding: 14px 16px; border-radius: 6px; background: #c70818; color: #fff; font-size: 15px; font-weight: 750; line-height: 1.5; }
+.coding-cta svg { flex-shrink: 0; }
+.coding-cta:hover { background: #a90714; }
+.coding-cta:focus-visible { outline: 3px solid #245db6; outline-offset: 3px; }
 .location-area { background: #f5f5f4; padding-block: 48px; }
 .location-inner { display: grid; grid-template-columns: 1.1fr 1fr 1fr; gap: 40px; align-items: center; }
 .location-area h2 { font-size: 30px; }
