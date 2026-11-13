@@ -1,0 +1,1413 @@
+{
+  "notice": "As opções de coding variam conforme o ano, a versão e os equipamentos do veículo. Fale com a Aro Pneus para confirmar os serviços disponíveis para o seu carro.",
+  "coverageNotice": "Este catálogo apresenta parte dos serviços. Não encontrou seu carro ou a função desejada? Consulte a Aro Pneus.",
+  "catalogs": [
+    {
+      "id": "vw-polo-tsi-gts",
+      "model": "Polo",
+      "versions": ["TSI", "GTS"],
+      "years": null,
+      "options": [
+        {
+          "id": "vw-polo-tsi-gts-01",
+          "number": 1,
+          "name": "Quantidade de piscadas da seta de conforto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "seta_conforto"
+        },
+        {
+          "id": "vw-polo-tsi-gts-02",
+          "number": 2,
+          "name": "Comportamento do DRL com o freio de mão",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "drl_freio_mao"
+        },
+        {
+          "id": "vw-polo-tsi-gts-03",
+          "number": 3,
+          "name": "Lanternas traseiras com o DRL",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "drl_traseiro"
+        },
+        {
+          "id": "vw-polo-tsi-gts-04",
+          "number": 4,
+          "name": "Lanterna acesa com porta-malas aberto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "lanterna_porta_malas"
+        },
+        {
+          "id": "vw-polo-tsi-gts-05",
+          "number": 5,
+          "name": "Coming/Leaving Home pelos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "ch_lh_neblina"
+        },
+        {
+          "id": "vw-polo-tsi-gts-06",
+          "number": 6,
+          "name": "Faróis de neblina com o farol alto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "neblina_alto"
+        },
+        {
+          "id": "vw-polo-tsi-gts-07",
+          "number": 7,
+          "name": "Desativar a luz de curva pelos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "cornering_off"
+        },
+        {
+          "id": "vw-polo-tsi-gts-08",
+          "number": 8,
+          "name": "Configuração para LED nos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "led_neblina"
+        },
+        {
+          "id": "vw-polo-tsi-gts-09",
+          "number": 9,
+          "name": "Configuração para LED na luz de placa",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "led_placa"
+        },
+        {
+          "id": "vw-polo-tsi-gts-10",
+          "number": 10,
+          "name": "Números ímpares e escala do painel digital",
+          "category": "Painel",
+          "restriction": "Catálogo restringe ao Polo 200 TSI.",
+          "technicalReview": false,
+          "functionId": "escala_impares"
+        },
+        {
+          "id": "vw-polo-tsi-gts-11",
+          "number": 11,
+          "name": "Visual do painel digital",
+          "category": "Painel",
+          "restriction": "Catálogo restringe ao Polo 200 TSI.",
+          "technicalReview": false,
+          "functionId": "layout_painel"
+        },
+        {
+          "id": "vw-polo-tsi-gts-12",
+          "number": 12,
+          "name": "Cronômetro de voltas no painel",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "lap_timer"
+        },
+        {
+          "id": "vw-polo-tsi-gts-13",
+          "number": 13,
+          "name": "Estimativa de litros para completar o tanque",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "reabastecer"
+        },
+        {
+          "id": "vw-polo-tsi-gts-14",
+          "number": 14,
+          "name": "Controle do DRL pelo menu da central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "menu_drl"
+        },
+        {
+          "id": "vw-polo-tsi-gts-15",
+          "number": 15,
+          "name": "Controle do bipe de travamento pela central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "menu_alarme"
+        },
+        {
+          "id": "vw-polo-tsi-gts-16",
+          "number": 16,
+          "name": "Informações de condução na central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "autoescola"
+        },
+        {
+          "id": "vw-polo-tsi-gts-17",
+          "number": 17,
+          "name": "Tela de informações off-road",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "offroad"
+        },
+        {
+          "id": "vw-polo-tsi-gts-18",
+          "number": 18,
+          "name": "Habilitação de câmera de ré instalada",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "camera_re"
+        },
+        {
+          "id": "vw-polo-tsi-gts-19",
+          "number": 19,
+          "name": "Logo de inicialização da central",
+          "category": "Multimídia",
+          "restriction": "Catálogo cita Composition Touch e logo GTI.",
+          "technicalReview": false,
+          "functionId": "logo_central"
+        },
+        {
+          "id": "vw-polo-tsi-gts-20",
+          "number": 20,
+          "name": "Tema vermelho da central Discover Media",
+          "category": "Multimídia",
+          "restriction": "Catálogo cita Discover Media (Highline), visual vermelho GTI.",
+          "technicalReview": false,
+          "functionId": "visual_vermelho"
+        },
+        {
+          "id": "vw-polo-tsi-gts-21",
+          "number": 21,
+          "name": "Iluminação pulsante do botão de partida",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "botao_partida"
+        },
+        {
+          "id": "vw-polo-tsi-gts-22",
+          "number": 22,
+          "name": "Uso dos vidros após desligar a ignição",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "vidros_pos_ignicao"
+        },
+        {
+          "id": "vw-polo-tsi-gts-23",
+          "number": 23,
+          "name": "Memória de recirculação do ar-condicionado",
+          "category": "Climatização",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "recirculacao"
+        },
+        {
+          "id": "vw-polo-tsi-gts-24",
+          "number": 24,
+          "name": "Configuração do aviso de cinto",
+          "category": "Avisos",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "aviso_cinto"
+        },
+        {
+          "id": "vw-polo-tsi-gts-25",
+          "number": 25,
+          "name": "Configuração do aviso de portas abertas",
+          "category": "Avisos",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "aviso_portas"
+        },
+        {
+          "id": "vw-polo-tsi-gts-26",
+          "number": 26,
+          "name": "Ajuste do assistente de partida em rampa",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "assistente_rampa"
+        },
+        {
+          "id": "vw-polo-tsi-gts-27",
+          "number": 27,
+          "name": "Configuração do start-stop do motor",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "start_stop_motor"
+        }
+      ]
+    },
+    {
+      "id": "vw-virtus-tsi-gts",
+      "model": "Virtus",
+      "versions": ["TSI", "GTS"],
+      "years": [2020, 2026],
+      "options": [
+        {
+          "id": "vw-virtus-tsi-gts-01",
+          "number": 1,
+          "name": "Quantidade de piscadas da seta de conforto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "seta_conforto"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-02",
+          "number": 2,
+          "name": "Faróis de neblina no modo automático",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "neblina_auto"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-03",
+          "number": 3,
+          "name": "Habilitar luz de curva pelos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "cornering_on"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-04",
+          "number": 4,
+          "name": "Comportamento do DRL com o freio de mão",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "drl_freio_mao"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-05",
+          "number": 5,
+          "name": "Lanterna acesa com porta-malas aberto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "lanterna_porta_malas"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-06",
+          "number": 6,
+          "name": "Brake light como iluminação ao destrancar",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "brake_boasvindas"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-07",
+          "number": 7,
+          "name": "Varredura dos ponteiros ao ligar",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "ponteiros"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-08",
+          "number": 8,
+          "name": "Cronômetro de voltas no painel",
+          "category": "Painel",
+          "restriction": "Catálogo cita painel analógico ou digital, condicionado ao exemplar.",
+          "technicalReview": false,
+          "functionId": "lap_timer"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-09",
+          "number": 9,
+          "name": "Visual do painel digital",
+          "category": "Painel",
+          "restriction": "Catálogo reúne layout e escala nesta função.",
+          "technicalReview": false,
+          "functionId": "layout_painel"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-10",
+          "number": 10,
+          "name": "Temperatura do óleo no painel",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "temperatura_oleo"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-11",
+          "number": 11,
+          "name": "Estimativa de litros para completar o tanque",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "reabastecer"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-12",
+          "number": 12,
+          "name": "Configuração do aviso de cinto",
+          "category": "Avisos",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "aviso_cinto"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-13",
+          "number": 13,
+          "name": "Configuração do aviso de portas abertas",
+          "category": "Avisos",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "aviso_portas"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-14",
+          "number": 14,
+          "name": "Controle do DRL pelo menu da central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "menu_drl"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-15",
+          "number": 15,
+          "name": "Tela de informações off-road",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "offroad"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-16",
+          "number": 16,
+          "name": "Tela de informações Sport na central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "sport_menu"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-17",
+          "number": 17,
+          "name": "Logo de inicialização da central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "logo_central"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-18",
+          "number": 18,
+          "name": "Acesso a menus da central em movimento",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "menus_movimento"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-19",
+          "number": 19,
+          "name": "Confirmação sonora ao trancar/destrancar",
+          "category": "Travas",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "bipe_travas"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-20",
+          "number": 20,
+          "name": "Travamento pela chave com motor ligado",
+          "category": "Travas",
+          "restriction": "Catálogo restringe a chave presencial.",
+          "technicalReview": true,
+          "functionId": "trancar_motor_ligado"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-21",
+          "number": 21,
+          "name": "Fechamento dos vidros ao trancar",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "vidros_trancar"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-22",
+          "number": 22,
+          "name": "Uso dos vidros após desligar a ignição",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "vidros_pos_ignicao"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-23",
+          "number": 23,
+          "name": "Comando do teto solar pela chave",
+          "category": "Conforto",
+          "restriction": "Catálogo cita abertura e fechamento do teto pela chave.",
+          "technicalReview": false,
+          "functionId": "teto_chave"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-24",
+          "number": 24,
+          "name": "Memória de recirculação do ar-condicionado",
+          "category": "Climatização",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "recirculacao"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-25",
+          "number": 25,
+          "name": "Indicador de ventilação no modo automático",
+          "category": "Climatização",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "ventilador_auto"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-26",
+          "number": 26,
+          "name": "Acendimento progressivo das luzes internas",
+          "category": "Iluminação interna",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "fade_interno"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-27",
+          "number": 27,
+          "name": "Configuração de resposta do acelerador",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "resposta_pedal"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-28",
+          "number": 28,
+          "name": "Configuração de resposta da direção",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "resposta_direcao"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-29",
+          "number": 29,
+          "name": "Opção de controle de tração",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "controle_tracao"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-30",
+          "number": 30,
+          "name": "Configuração do diferencial eletrônico XDS",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "xds"
+        },
+        {
+          "id": "vw-virtus-tsi-gts-31",
+          "number": 31,
+          "name": "Iluminação pulsante do botão de partida",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "botao_partida"
+        }
+      ]
+    },
+    {
+      "id": "vw-nivus",
+      "model": "Nivus",
+      "versions": [],
+      "years": [2020, 2026],
+      "options": [
+        {
+          "id": "vw-nivus-01",
+          "number": 1,
+          "name": "Quantidade de piscadas da seta de conforto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "seta_conforto"
+        },
+        {
+          "id": "vw-nivus-02",
+          "number": 2,
+          "name": "Comportamento do DRL com o freio de mão",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "drl_freio_mao"
+        },
+        {
+          "id": "vw-nivus-03",
+          "number": 3,
+          "name": "Lanternas traseiras com o DRL",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "drl_traseiro"
+        },
+        {
+          "id": "vw-nivus-04",
+          "number": 4,
+          "name": "Lanterna acesa com porta-malas aberto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "lanterna_porta_malas"
+        },
+        {
+          "id": "vw-nivus-05",
+          "number": 5,
+          "name": "Coming/Leaving Home pelos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "ch_lh_neblina"
+        },
+        {
+          "id": "vw-nivus-06",
+          "number": 6,
+          "name": "Faróis de neblina com o farol alto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "neblina_alto"
+        },
+        {
+          "id": "vw-nivus-07",
+          "number": 7,
+          "name": "Configuração para LED nos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "led_neblina"
+        },
+        {
+          "id": "vw-nivus-08",
+          "number": 8,
+          "name": "Desativar a luz de curva pelos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "cornering_off"
+        },
+        {
+          "id": "vw-nivus-09",
+          "number": 9,
+          "name": "Visual do painel digital",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "layout_painel"
+        },
+        {
+          "id": "vw-nivus-10",
+          "number": 10,
+          "name": "Números ímpares e escala do painel digital",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "escala_impares"
+        },
+        {
+          "id": "vw-nivus-11",
+          "number": 11,
+          "name": "Cronômetro de voltas no painel",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "lap_timer"
+        },
+        {
+          "id": "vw-nivus-12",
+          "number": 12,
+          "name": "Estimativa de litros para completar o tanque",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "reabastecer"
+        },
+        {
+          "id": "vw-nivus-13",
+          "number": 13,
+          "name": "Acendimento progressivo das luzes do console",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "luzes_progressivas"
+        },
+        {
+          "id": "vw-nivus-14",
+          "number": 14,
+          "name": "Controle do DRL pelo menu da central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "menu_drl"
+        },
+        {
+          "id": "vw-nivus-15",
+          "number": 15,
+          "name": "Controle do bipe de travamento pela central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "menu_alarme"
+        },
+        {
+          "id": "vw-nivus-16",
+          "number": 16,
+          "name": "Informações de condução na central",
+          "category": "Multimídia",
+          "restriction": "Catálogo identifica a central como “MIB21”; confirmar nomenclatura e equipamento.",
+          "technicalReview": false,
+          "functionId": "autoescola"
+        },
+        {
+          "id": "vw-nivus-17",
+          "number": 17,
+          "name": "Tela de informações off-road",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "offroad"
+        },
+        {
+          "id": "vw-nivus-18",
+          "number": 18,
+          "name": "Habilitação de câmera de ré instalada",
+          "category": "Multimídia",
+          "restriction": "Catálogo condiciona a câmera de ré já instalada.",
+          "technicalReview": false,
+          "functionId": "camera_re"
+        },
+        {
+          "id": "vw-nivus-19",
+          "number": 19,
+          "name": "Travamento pela chave com motor ligado",
+          "category": "Travas",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "trancar_motor_ligado"
+        },
+        {
+          "id": "vw-nivus-20",
+          "number": 20,
+          "name": "Iluminação pulsante do botão de partida",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "botao_partida"
+        },
+        {
+          "id": "vw-nivus-21",
+          "number": 21,
+          "name": "Uso dos vidros após desligar a ignição",
+          "category": "Conforto",
+          "restriction": "Catálogo cita uso após desligar e com porta aberta.",
+          "technicalReview": false,
+          "functionId": "vidros_pos_ignicao"
+        },
+        {
+          "id": "vw-nivus-22",
+          "number": 22,
+          "name": "Memória de recirculação do ar-condicionado",
+          "category": "Climatização",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "recirculacao"
+        },
+        {
+          "id": "vw-nivus-23",
+          "number": 23,
+          "name": "Configuração do aviso de cinto",
+          "category": "Avisos",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "aviso_cinto"
+        },
+        {
+          "id": "vw-nivus-24",
+          "number": 24,
+          "name": "Configuração do aviso de farol aceso",
+          "category": "Avisos",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "aviso_farol"
+        },
+        {
+          "id": "vw-nivus-25",
+          "number": 25,
+          "name": "Ajuste do assistente de partida em rampa",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "assistente_rampa"
+        },
+        {
+          "id": "vw-nivus-26",
+          "number": 26,
+          "name": "Configuração do start-stop do motor",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "start_stop_motor"
+        }
+      ]
+    },
+    {
+      "id": "vw-t-cross",
+      "model": "T-Cross",
+      "versions": [],
+      "years": null,
+      "options": [
+        {
+          "id": "vw-t-cross-01",
+          "number": 1,
+          "name": "Quantidade de piscadas da seta de conforto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "seta_conforto"
+        },
+        {
+          "id": "vw-t-cross-02",
+          "number": 2,
+          "name": "Comportamento do DRL com o freio de mão",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "drl_freio_mao"
+        },
+        {
+          "id": "vw-t-cross-03",
+          "number": 3,
+          "name": "Lanterna acesa com porta-malas aberto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "lanterna_porta_malas"
+        },
+        {
+          "id": "vw-t-cross-04",
+          "number": 4,
+          "name": "Faróis de neblina com o farol alto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "neblina_alto"
+        },
+        {
+          "id": "vw-t-cross-05",
+          "number": 5,
+          "name": "Desativar a luz de curva pelos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "cornering_off"
+        },
+        {
+          "id": "vw-t-cross-06",
+          "number": 6,
+          "name": "Configuração para LED nos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "led_neblina"
+        },
+        {
+          "id": "vw-t-cross-07",
+          "number": 7,
+          "name": "Números ímpares e escala do painel digital",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "escala_impares"
+        },
+        {
+          "id": "vw-t-cross-08",
+          "number": 8,
+          "name": "Visual do painel digital",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "layout_painel"
+        },
+        {
+          "id": "vw-t-cross-09",
+          "number": 9,
+          "name": "Cronômetro de voltas no painel",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "lap_timer"
+        },
+        {
+          "id": "vw-t-cross-10",
+          "number": 10,
+          "name": "Estimativa de litros para completar o tanque",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "reabastecer"
+        },
+        {
+          "id": "vw-t-cross-11",
+          "number": 11,
+          "name": "Acendimento progressivo das luzes do console",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "luzes_progressivas"
+        },
+        {
+          "id": "vw-t-cross-12",
+          "number": 12,
+          "name": "Controle do DRL pelo menu da central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "menu_drl"
+        },
+        {
+          "id": "vw-t-cross-13",
+          "number": 13,
+          "name": "Controle do bipe de travamento pela central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "menu_alarme"
+        },
+        {
+          "id": "vw-t-cross-14",
+          "number": 14,
+          "name": "Informações de condução na central",
+          "category": "Multimídia",
+          "restriction": "Catálogo identifica a central como “MIB21”; confirmar nomenclatura e equipamento.",
+          "technicalReview": false,
+          "functionId": "autoescola"
+        },
+        {
+          "id": "vw-t-cross-15",
+          "number": 15,
+          "name": "Tela de informações off-road",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "offroad"
+        },
+        {
+          "id": "vw-t-cross-16",
+          "number": 16,
+          "name": "Habilitação de câmera de ré instalada",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "camera_re"
+        },
+        {
+          "id": "vw-t-cross-17",
+          "number": 17,
+          "name": "Travamento pela chave com motor ligado",
+          "category": "Travas",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "trancar_motor_ligado"
+        },
+        {
+          "id": "vw-t-cross-18",
+          "number": 18,
+          "name": "Iluminação pulsante do botão de partida",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "botao_partida"
+        },
+        {
+          "id": "vw-t-cross-19",
+          "number": 19,
+          "name": "Uso dos vidros após desligar a ignição",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "vidros_pos_ignicao"
+        },
+        {
+          "id": "vw-t-cross-20",
+          "number": 20,
+          "name": "Comando do teto solar pela chave",
+          "category": "Conforto",
+          "restriction": "Catálogo cita abertura ou levantamento da aba do teto.",
+          "technicalReview": false,
+          "functionId": "teto_chave"
+        },
+        {
+          "id": "vw-t-cross-21",
+          "number": 21,
+          "name": "Memória de recirculação do ar-condicionado",
+          "category": "Climatização",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "recirculacao"
+        },
+        {
+          "id": "vw-t-cross-22",
+          "number": 22,
+          "name": "Configuração do aviso de cinto",
+          "category": "Avisos",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "aviso_cinto"
+        },
+        {
+          "id": "vw-t-cross-23",
+          "number": 23,
+          "name": "Configuração do aviso de farol aceso",
+          "category": "Avisos",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "aviso_farol"
+        },
+        {
+          "id": "vw-t-cross-24",
+          "number": 24,
+          "name": "Ajuste do assistente de partida em rampa",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "assistente_rampa"
+        },
+        {
+          "id": "vw-t-cross-25",
+          "number": 25,
+          "name": "Configuração do start-stop do motor",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "start_stop_motor"
+        }
+      ]
+    },
+    {
+      "id": "vw-taos",
+      "model": "Taos",
+      "versions": [],
+      "years": null,
+      "options": [
+        {
+          "id": "vw-taos-01",
+          "number": 1,
+          "name": "Quantidade de piscadas da seta de conforto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "seta_conforto"
+        },
+        {
+          "id": "vw-taos-02",
+          "number": 2,
+          "name": "Comportamento do DRL com o freio de mão",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "drl_freio_mao"
+        },
+        {
+          "id": "vw-taos-03",
+          "number": 3,
+          "name": "Lanternas traseiras com o DRL",
+          "category": "Iluminação",
+          "restriction": "Catálogo cita seletor dos faróis na posição 0.",
+          "technicalReview": false,
+          "functionId": "drl_traseiro"
+        },
+        {
+          "id": "vw-taos-04",
+          "number": 4,
+          "name": "Lanterna acesa com porta-malas aberto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "lanterna_porta_malas"
+        },
+        {
+          "id": "vw-taos-05",
+          "number": 5,
+          "name": "Coming/Leaving Home pelos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "ch_lh_neblina"
+        },
+        {
+          "id": "vw-taos-06",
+          "number": 6,
+          "name": "Faróis de neblina com o farol alto",
+          "category": "Iluminação",
+          "restriction": "Catálogo cita lampejo do farol alto, não acionamento contínuo.",
+          "technicalReview": false,
+          "functionId": "neblina_alto"
+        },
+        {
+          "id": "vw-taos-07",
+          "number": 7,
+          "name": "Configuração para LED nos faróis de neblina",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "led_neblina"
+        },
+        {
+          "id": "vw-taos-08",
+          "number": 8,
+          "name": "Visual do painel digital",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "layout_painel"
+        },
+        {
+          "id": "vw-taos-09",
+          "number": 9,
+          "name": "Números ímpares e escala do painel digital",
+          "category": "Painel",
+          "restriction": "Somente Highline, segundo catálogo.",
+          "technicalReview": false,
+          "functionId": "escala_impares"
+        },
+        {
+          "id": "vw-taos-10",
+          "number": 10,
+          "name": "Cronômetro de voltas no painel",
+          "category": "Painel",
+          "restriction": "Somente Highline, segundo catálogo.",
+          "technicalReview": false,
+          "functionId": "lap_timer"
+        },
+        {
+          "id": "vw-taos-11",
+          "number": 11,
+          "name": "Estimativa de litros para completar o tanque",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "reabastecer"
+        },
+        {
+          "id": "vw-taos-12",
+          "number": 12,
+          "name": "Acendimento progressivo das luzes do console",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "luzes_progressivas"
+        },
+        {
+          "id": "vw-taos-13",
+          "number": 13,
+          "name": "Controle do DRL pelo menu da central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "menu_drl"
+        },
+        {
+          "id": "vw-taos-14",
+          "number": 14,
+          "name": "Controle do bipe de travamento pela central",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "menu_alarme"
+        },
+        {
+          "id": "vw-taos-15",
+          "number": 15,
+          "name": "Informações de condução na central",
+          "category": "Multimídia",
+          "restriction": "Catálogo identifica a central como “MIB21”; confirmar nomenclatura e equipamento.",
+          "technicalReview": false,
+          "functionId": "autoescola"
+        },
+        {
+          "id": "vw-taos-16",
+          "number": 16,
+          "name": "Tela de informações off-road",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "offroad"
+        },
+        {
+          "id": "vw-taos-17",
+          "number": 17,
+          "name": "Habilitação de câmera de ré instalada",
+          "category": "Multimídia",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "camera_re"
+        },
+        {
+          "id": "vw-taos-18",
+          "number": 18,
+          "name": "Travamento pela chave com motor ligado",
+          "category": "Travas",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "trancar_motor_ligado"
+        },
+        {
+          "id": "vw-taos-19",
+          "number": 19,
+          "name": "Iluminação pulsante do botão de partida",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "botao_partida"
+        },
+        {
+          "id": "vw-taos-20",
+          "number": 20,
+          "name": "Uso dos vidros após desligar a ignição",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "vidros_pos_ignicao"
+        },
+        {
+          "id": "vw-taos-21",
+          "number": 21,
+          "name": "Comando do teto solar pela chave",
+          "category": "Conforto",
+          "restriction": "Catálogo cita abertura ou levantamento da aba do teto.",
+          "technicalReview": false,
+          "functionId": "teto_chave"
+        },
+        {
+          "id": "vw-taos-22",
+          "number": 22,
+          "name": "Memória do aquecimento dos bancos",
+          "category": "Climatização",
+          "restriction": "Exige aquecimento de bancos instalado.",
+          "technicalReview": false,
+          "functionId": "aquecimento_bancos"
+        },
+        {
+          "id": "vw-taos-23",
+          "number": 23,
+          "name": "Memória de recirculação do ar-condicionado",
+          "category": "Climatização",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "recirculacao"
+        },
+        {
+          "id": "vw-taos-24",
+          "number": 24,
+          "name": "Configuração do aviso de cinto",
+          "category": "Avisos",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "aviso_cinto"
+        },
+        {
+          "id": "vw-taos-25",
+          "number": 25,
+          "name": "Configuração do aviso de farol aceso",
+          "category": "Avisos",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "aviso_farol"
+        },
+        {
+          "id": "vw-taos-26",
+          "number": 26,
+          "name": "Ajuste do assistente de partida em rampa",
+          "category": "Condução",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "assistente_rampa"
+        }
+      ]
+    },
+    {
+      "id": "vw-jetta-facelift",
+      "model": "Jetta",
+      "versions": ["Facelift"],
+      "years": [2022, 2024],
+      "options": [
+        {
+          "id": "vw-jetta-facelift-01",
+          "number": 1,
+          "name": "Configuração do friso e segmentos da lanterna",
+          "category": "Iluminação",
+          "restriction": "Catálogo descreve remoção dos três segmentos, mantendo o friso.",
+          "technicalReview": true,
+          "functionId": "lanterna_friso"
+        },
+        {
+          "id": "vw-jetta-facelift-02",
+          "number": 2,
+          "name": "Luzes traseiras e brake light com porta-malas aberto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": true,
+          "functionId": "luzes_malas_freio"
+        },
+        {
+          "id": "vw-jetta-facelift-03",
+          "number": 3,
+          "name": "Comportamento do DRL com o freio de mão",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "drl_freio_mao"
+        },
+        {
+          "id": "vw-jetta-facelift-04",
+          "number": 4,
+          "name": "Quantidade de piscadas da seta de conforto",
+          "category": "Iluminação",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "seta_conforto"
+        },
+        {
+          "id": "vw-jetta-facelift-05",
+          "number": 5,
+          "name": "Escala do painel digital até 320 km/h",
+          "category": "Painel",
+          "restriction": "Catálogo cita escala de até 320 km/h com números pares e ímpares.",
+          "technicalReview": false,
+          "functionId": "escala_320"
+        },
+        {
+          "id": "vw-jetta-facelift-06",
+          "number": 6,
+          "name": "Visual do painel digital",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "layout_painel"
+        },
+        {
+          "id": "vw-jetta-facelift-07",
+          "number": 7,
+          "name": "Cronômetro de voltas no painel",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "lap_timer"
+        },
+        {
+          "id": "vw-jetta-facelift-08",
+          "number": 8,
+          "name": "Estimativa de litros para completar o tanque",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "reabastecer"
+        },
+        {
+          "id": "vw-jetta-facelift-09",
+          "number": 9,
+          "name": "Acendimento progressivo das luzes do console",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "luzes_progressivas"
+        },
+        {
+          "id": "vw-jetta-facelift-10",
+          "number": 10,
+          "name": "Configuração do monitoramento dos pneus",
+          "category": "Painel",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "tpms"
+        },
+        {
+          "id": "vw-jetta-facelift-11",
+          "number": 11,
+          "name": "Paleta de cores da iluminação ambiente",
+          "category": "Iluminação interna",
+          "restriction": "Catálogo cita até 30 cores; verificar hardware de iluminação ambiente.",
+          "technicalReview": false,
+          "functionId": "ambiente_30"
+        },
+        {
+          "id": "vw-jetta-facelift-12",
+          "number": 12,
+          "name": "Cor ambiente associada ao modo de condução",
+          "category": "Iluminação interna",
+          "restriction": "Catálogo exige iluminação no modo Automático para acompanhar modos de condução.",
+          "technicalReview": false,
+          "functionId": "cores_modos"
+        },
+        {
+          "id": "vw-jetta-facelift-13",
+          "number": 13,
+          "name": "Travamento automático após sair e fechar a porta",
+          "category": "Travas",
+          "restriction": "Catálogo descreve trancamento após sair e fechar a porta; não é Auto-Lock por velocidade.",
+          "technicalReview": true,
+          "functionId": "trancar_sair"
+        },
+        {
+          "id": "vw-jetta-facelift-14",
+          "number": 14,
+          "name": "Confirmação sonora ao trancar/destrancar",
+          "category": "Travas",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "bipe_travas"
+        },
+        {
+          "id": "vw-jetta-facelift-15",
+          "number": 15,
+          "name": "Iluminação pulsante do botão de partida",
+          "category": "Conforto",
+          "restriction": "",
+          "technicalReview": false,
+          "functionId": "botao_partida"
+        },
+        {
+          "id": "vw-jetta-facelift-16",
+          "number": 16,
+          "name": "Comando do teto solar pela chave",
+          "category": "Conforto",
+          "restriction": "Catálogo cita abertura ou levantamento da aba do teto.",
+          "technicalReview": false,
+          "functionId": "teto_chave"
+        }
+      ]
+    }
+  ]
+}

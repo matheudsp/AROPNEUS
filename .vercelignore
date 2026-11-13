@@ -1,0 +1,12 @@
+.git/
+.next/
+node_modules/
+docs/
+scripts/
+.agents/
+.codex/
+.aws/
+.env*
+*.pdf
+*.zip
+*.tsbuildinfo

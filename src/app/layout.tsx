@@ -1,17 +1,16 @@
 import type { Metadata } from "next";
-import { Montserrat } from "next/font/google";
+import "@fontsource-variable/montserrat/wght.css";
 import "./globals.css";
 import Header from "@/components/header";
 import UIProvider from "@/providers/UIProvider";
 import Footer from "@/components/footer";
-const montserrat = Montserrat({ subsets: ["latin"] });
 import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Analytics } from '@vercel/analytics/next';
 
 export const metadata: Metadata = {
-  title: "AROPNEUS | A segurança nunca foi tão fácil!",
+  title: "Aro Pneus | Pneus, Troca de Óleo e Coding em Floriano–PI",
   description:
-    "Sua histórico de manutenção veicular começa na AROPNEUS. Descubra problemas e faça revisões do seu veículo aqui.",
+    "Pneus, troca de óleo do motor e câmbio automático e coding VW/Audi em Floriano–PI. Peça seu orçamento na Aro Pneus pelo WhatsApp.",
 };
 
 export default function RootLayout({
@@ -21,7 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
-      <body className={`${montserrat.className} maxContainer`}>
+      <body className="font-site maxContainer">
         <UIProvider>
           {/* <DemoFlag /> */}
           <Header />
