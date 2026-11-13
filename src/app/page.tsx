@@ -6,7 +6,7 @@ import { MAPS_URL, whatsappUrl } from '@/lib/contact';
 
 const services = [
   { number: '01', title: 'Pneus', detail: 'O cuidado começa no contato com a estrada.', description: 'Pneus, alinhamento e balanceamento para você seguir com segurança.', icon: CircleDot, cta: 'Consultar pneus', message: 'Olá! Gostaria de consultar pneus para o meu carro. Modelo e medida: ' },
-  { number: '02', title: 'Troca de óleo', detail: 'Motor e câmbio automático.', description: 'O óleo certo para o seu veículo. Consulte a aplicação e agende a troca.', icon: Droplets, cta: 'Agendar troca de óleo', message: 'Olá! Gostaria de agendar uma troca de óleo do motor ou câmbio automático. Meu veículo é: ' },
+  { number: '02', title: 'Troca de óleo', detail: 'O óleo certo. A tecnologia certa.', description: 'Para câmbio automático, contamos com a PRIME IV PRO: troca de óleo por diálise, conforme a recomendação do fabricante do veículo.', icon: Droplets, cta: 'Agendar troca de óleo', message: 'Olá! Gostaria de agendar uma troca de óleo. Meu veículo é: ' },
   { number: '03', title: 'Coding VW / Audi', detail: 'Seu carro pode fazer mais do que você imagina.', description: 'Escolha seu modelo, veja exemplos e descubra opções para deixar o carro do seu jeito.', icon: ScanLine, cta: 'Descobrir funções do meu carro', href: '/coding' },
 ];
 
