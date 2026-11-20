@@ -1,5 +1,8 @@
 # Auditoria dos exemplos visuais de coding
 
+> Registro da versão anterior. O catálogo atual usa fotos de referência e descrições dos ajustes.
+
+
 54 funções distintas, correspondentes às 151 referências dos seis catálogos da oficina. Cada função tem um desenho específico com dois estados ilustrativos. As cenas compartilham elementos gráficos em 18 famílias, mantendo diferenças de acionamento e efeito.
 
 ## Critérios de conteúdo
