@@ -62,6 +62,18 @@ export default async function ModelPage({ params }: ModelPageProps) {
               ? 'Marque o que você gostaria de ajustar. A oficina confirma a compatibilidade pelo ano, versão e equipamentos.'
               : 'Conte à oficina qual é o seu carro para descobrir as opções de personalização.'}
           </p>
+          {model?.photo === 'amarok' && (
+            <p className={styles.photoCredit}>
+              Foto de{' '}
+              <a href='https://commons.wikimedia.org/wiki/File:2017_Volkswagen_Amarok_Highline_V6_TDi_facelift_3.0.jpg'>
+                Vauxford
+              </a>{' '}
+              ·{' '}
+              <a href='https://creativecommons.org/licenses/by-sa/4.0/'>
+                CC BY-SA 4.0
+              </a>
+            </p>
+          )}
         </div>
         {model && <VehiclePhoto model={model} priority />}
       </section>

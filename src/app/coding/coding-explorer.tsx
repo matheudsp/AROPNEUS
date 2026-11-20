@@ -7,7 +7,11 @@ import { FaWhatsapp } from 'react-icons/fa6';
 import { codingDetails } from '@/data/coding-details';
 import { codingNames } from '@/data/coding-names';
 import type { CodingCatalog, CodingOption } from '@/lib/coding-catalog';
-import { buildCodingMessage } from '@/lib/coding-query';
+import {
+  buildCodingMessage,
+  normalizeCodingSearch,
+  yearInRange,
+} from '@/lib/coding-query';
 import { WHATSAPP_NUMBER } from '@/lib/contact';
 import styles from './coding.module.css';
 
@@ -18,6 +22,11 @@ const photos: Record<string, [file: string, subject: string]> = {
   Conforto: ['interior', 'Interior do Volkswagen Taos'],
   Climatização: ['climate', 'Comandos de ar-condicionado do Volkswagen Nivus'],
   'Iluminação interna': ['interior', 'Interior do Volkswagen Taos'],
+  'Ajustes de condução': ['cockpit', 'Volante e comandos do Volkswagen Jetta'],
+  'Assistentes de condução': [
+    'cockpit',
+    'Posto do motorista do Volkswagen Jetta',
+  ],
 };
 const detailPhotos: Record<string, [file: string, subject: string]> = {
   drl_traseiro: ['taillights', 'Lanternas traseiras do Volkswagen Nivus'],
@@ -44,12 +53,6 @@ const years = Array.from({ length: nextYear - 1990 }, (_, index) =>
 );
 const optionName = (option: CodingOption) =>
   codingNames[option.functionId] ?? option.name;
-const normalize = (value: string) =>
-  value
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .toLowerCase()
-    .trim();
 
 function ReferencePhoto({
   photo: [file, subject],
@@ -90,24 +93,24 @@ export default function CodingExplorer({
   const [query, setQuery] = useState('');
   const [selected, setSelected] = useState<string[]>([]);
 
-  const outsideRange = Boolean(
-    year &&
-      catalog?.years &&
-      (year === 'older' ||
-        Number(year) < catalog.years[0] ||
-        Number(year) > catalog.years[1]),
-  );
-  const options = outsideRange ? [] : (catalog?.options ?? []);
-  const search = normalize(query);
+  const options =
+    catalog?.options.filter((option) =>
+      yearInRange(
+        year,
+        option.reference ? catalog.reference?.years : catalog.years,
+      ),
+    ) ?? [];
+  const outsideRange = Boolean(catalog && !options.length);
+  const search = normalizeCodingSearch(query);
   const grouped = new Map<string, CodingOption[]>();
   for (const option of options) {
     const searchable = [
       optionName(option),
       option.name,
       categories[option.category] ?? option.category,
-      codingDetails[option.functionId]?.effect,
+      option.effect ?? codingDetails[option.functionId]?.effect,
     ].join(' ');
-    if (!normalize(searchable).includes(search)) continue;
+    if (!normalizeCodingSearch(searchable).includes(search)) continue;
     const items = grouped.get(option.category);
     if (items) items.push(option);
     else grouped.set(option.category, [option]);
@@ -124,7 +127,7 @@ export default function CodingExplorer({
     version,
     options: chosen.map((option) => ({
       name: optionName(option),
-      number: option.number,
+      number: option.reference ? undefined : option.number,
     })),
   });
 
@@ -148,6 +151,21 @@ export default function CodingExplorer({
             </p>
           ) : (
             <>
+              {catalog.reference &&
+                options.some((option) => option.reference) && (
+                  <p className={styles.referenceNote}>
+                    As opções com a indicação “A confirmar” vêm de uma{' '}
+                    <a
+                      href={catalog.reference.url}
+                      target='_blank'
+                      rel='noopener noreferrer'
+                    >
+                      referência internacional
+                    </a>
+                    . A oficina verifica os equipamentos e o que pode ser feito
+                    no seu carro.
+                  </p>
+                )}
               <label className={styles.search}>
                 <span>Buscar uma função</span>
                 <input
@@ -190,6 +208,7 @@ export default function CodingExplorer({
                         {items.map((option) => {
                           const detail = codingDetails[option.functionId];
                           const detailPhoto = detailPhotos[option.functionId];
+                          const effect = option.effect ?? detail?.effect;
                           return (
                             <li key={option.id} className={styles.functionItem}>
                               <label className={styles.functionChoice}>
@@ -200,9 +219,14 @@ export default function CodingExplorer({
                                 />
                                 <span>
                                   <strong>{optionName(option)}</strong>
-                                  {detail && (
+                                  {option.reference && (
+                                    <span className={styles.referenceLabel}>
+                                      A confirmar
+                                    </span>
+                                  )}
+                                  {effect && (
                                     <span className={styles.effect}>
-                                      {detail.effect}
+                                      {effect}
                                     </span>
                                   )}
                                 </span>

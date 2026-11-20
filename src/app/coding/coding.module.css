@@ -71,6 +71,10 @@
   color: white;
   background: var(--site-red);
 }
+.modelSearch {
+  max-width: 380px;
+  margin-bottom: 22px;
+}
 .modelGrid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -332,6 +336,28 @@
   font-size: 0.92rem;
   margin-top: 4px;
   line-height: 1.5;
+}
+.modelIntro .photoCredit {
+  font-size: 0.78rem;
+}
+.photoCredit a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.referenceNote {
+  color: var(--site-muted);
+  font-size: 0.92rem;
+  margin-top: 10px;
+  line-height: 1.55;
+}
+.referenceNote a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.referenceLabel {
+  color: var(--site-red);
+  font-size: 0.8rem;
+  font-weight: 660;
 }
 .functionDetails {
   margin-left: 33px;

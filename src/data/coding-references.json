@@ -1,0 +1,1154 @@
+{
+  "models": {
+    "amarok": {
+      "title": "Amarok",
+      "subtitle": "2H · 1ª geração",
+      "years": {
+        "from": 2010,
+        "through": 2022
+      },
+      "sourceSlug": "amarok-2h",
+      "features": [
+        "luzes-ao-chegar-e-sair-do-carro",
+        "luz-de-curva-pelo-farol-de-neblina",
+        "farois-de-neblina-com-o-farol-alto",
+        "controle-da-luz-diurna-na-central",
+        "luz-diurna-com-o-freio-de-estacionamento",
+        "luz-diurna-ao-acionar-a-seta",
+        "farois-automaticos-em-chuva-e-estrada",
+        "sensibilidade-dos-farois-automaticos",
+        "sinal-luminoso-em-frenagem-de-emergencia",
+        "numero-de-piscadas-da-seta-de-conforto",
+        "transicao-suave-das-luzes-internas",
+        "visual-da-central-rcd-rns-510",
+        "limite-de-velocidade-no-mapa",
+        "grafico-dos-sensores-de-estacionamento",
+        "movimento-dos-ponteiros-na-partida",
+        "estimativa-de-litros-para-completar-o-tanque",
+        "travamento-automatico-em-movimento",
+        "destravamento-ao-desligar-ou-engatar-p",
+        "destravar-a-porta-do-motorista-primeiro",
+        "musica-pelo-bluetooth",
+        "ocultar-radio-am",
+        "carplay-e-android-auto-com-cabo",
+        "passada-extra-do-limpador",
+        "memoria-do-start-stop",
+        "lembrete-de-revisao",
+        "compatibilidade-da-luz-de-placa-em-led",
+        "entrada-aux-na-central",
+        "instalacao-de-camera-de-re",
+        "fechar-os-vidros-ao-detectar-chuva",
+        "velocidade-do-ventilador-no-modo-automatico",
+        "bipe-ao-trancar-o-carro",
+        "volume-e-tom-dos-sensores-de-estacionamento",
+        "assistente-de-partida-em-rampa",
+        "ajuste-da-atuacao-do-xds"
+      ]
+    },
+    "golf-6": {
+      "title": "Golf 6",
+      "subtitle": "6ª geração",
+      "years": {
+        "from": 2008,
+        "through": 2013
+      },
+      "sourceSlug": "golf-6",
+      "features": [
+        "luzes-ao-chegar-e-sair-do-carro",
+        "luz-de-curva-pelo-farol-de-neblina",
+        "iluminacao-extra-nas-manobras-de-re",
+        "farois-de-neblina-com-o-farol-alto",
+        "luz-diurna-pelos-farois-de-neblina",
+        "controle-da-luz-diurna-na-central",
+        "luz-diurna-somente-em-auto",
+        "luz-diurna-com-o-freio-de-estacionamento",
+        "luz-diurna-ao-acionar-a-seta",
+        "farois-automaticos-em-chuva-e-estrada",
+        "sensibilidade-dos-farois-automaticos",
+        "sinal-luminoso-em-frenagem-de-emergencia",
+        "numero-de-piscadas-da-seta-de-conforto",
+        "configuracao-das-luzes-ambientes",
+        "visual-da-central-rcd-rns-510",
+        "limite-de-velocidade-no-mapa",
+        "grafico-dos-sensores-de-estacionamento",
+        "movimento-dos-ponteiros-na-partida",
+        "temperatura-do-oleo-no-painel",
+        "estimativa-de-litros-para-completar-o-tanque",
+        "calibracao-do-consumo-exibido",
+        "compatibilidade-da-luz-de-placa-em-led",
+        "instalacao-de-camera-de-re",
+        "instalacao-de-piloto-automatico",
+        "comandos-no-volante-e-borboletas-de-marcha",
+        "lanternas-traseiras-de-led",
+        "passada-extra-do-limpador",
+        "limpador-traseiro-ao-engatar-a-re",
+        "memoria-do-start-stop",
+        "lembrete-de-revisao",
+        "travamento-automatico-em-movimento",
+        "destravamento-ao-desligar-ou-engatar-p",
+        "destravar-a-porta-do-motorista-primeiro",
+        "rebatimento-dos-retrovisores-ao-trancar",
+        "retrovisor-abaixa-na-re",
+        "vidros-e-teto-solar-pela-chave",
+        "ajuste-da-atuacao-do-xds",
+        "modo-esc-sport",
+        "peso-da-direcao",
+        "fechar-os-vidros-ao-detectar-chuva",
+        "memoria-do-aquecimento-dos-bancos",
+        "ativacao-do-monitor-de-pressao-dos-pneus",
+        "bipe-ao-trancar-o-carro",
+        "volume-e-tom-dos-sensores-de-estacionamento",
+        "assistente-de-partida-em-rampa"
+      ]
+    },
+    "golf-7": {
+      "title": "Golf 7",
+      "subtitle": "7ª geração",
+      "years": {
+        "from": 2012,
+        "through": 2020
+      },
+      "sourceSlug": "golf-7",
+      "features": [
+        "tempo-das-luzes-apos-desligar-o-carro",
+        "luzes-de-saida-e-chegada-pela-neblina",
+        "luz-de-curva-pelo-farol-de-neblina",
+        "controle-da-luz-diurna-na-central",
+        "luz-diurna-somente-em-auto",
+        "luz-diurna-com-o-freio-de-estacionamento",
+        "lanternas-traseiras-junto-com-a-luz-diurna",
+        "mais-segmentos-acesos-na-luz-de-freio",
+        "luz-de-chao-com-retrovisores-rebatidos",
+        "configuracao-das-luzes-ambientes",
+        "intensidade-das-luzes-da-cabine-e-das-portas",
+        "assistente-automatico-de-farol-alto",
+        "numero-de-piscadas-da-seta-de-conforto",
+        "sinal-luminoso-em-frenagem-de-emergencia",
+        "movimento-dos-ponteiros-na-partida",
+        "temperatura-do-oleo-no-painel",
+        "estimativa-de-litros-para-completar-o-tanque",
+        "estilos-do-painel-digital",
+        "modo-de-conducao-no-painel",
+        "tela-de-informacoes-fora-de-estrada",
+        "grafico-dos-sensores-de-estacionamento",
+        "logo-ao-ligar-a-central",
+        "estado-da-bateria-no-painel",
+        "frequencia-do-lavador-de-farois",
+        "passada-extra-do-limpador",
+        "limpador-traseiro-ao-engatar-a-re",
+        "mudanca-automatica-de-horario",
+        "memoria-do-start-stop",
+        "memoria-do-auto-hold",
+        "lembrete-de-revisao",
+        "registro-de-bateria-nova",
+        "reconhecimento-do-modulo-de-reboque",
+        "cronometro-de-voltas",
+        "modo-esc-sport",
+        "ajuste-da-atuacao-do-xds",
+        "peso-da-direcao-no-modo-individual",
+        "perfis-de-direcao-na-central",
+        "resposta-do-acelerador-no-modo-individual",
+        "valvula-do-escapamento-por-modo",
+        "distribuicao-de-tracao-4motion",
+        "fechar-os-vidros-ao-detectar-chuva",
+        "memoria-do-aquecimento-dos-bancos",
+        "memoria-de-recirculacao-e-air-care",
+        "velocidade-do-ventilador-no-modo-automatico",
+        "tempo-de-desembacamento-traseiro-e-dos-retrovisores",
+        "ajustes-do-assistente-de-faixa",
+        "reconhecimento-de-placas-de-transito",
+        "assistente-de-partida-em-rampa",
+        "memoria-da-distancia-do-piloto-adaptativo",
+        "volume-do-radio-em-manobras",
+        "carplay-e-android-auto-com-cabo",
+        "sensibilidade-do-microfone-viva-voz",
+        "dois-celulares-via-bluetooth",
+        "trancar-com-o-motor-ligado",
+        "travamento-automatico-em-movimento",
+        "destravar-ao-engatar-p",
+        "rebatimento-dos-retrovisores-ao-trancar",
+        "retrovisor-abaixa-na-re",
+        "vidros-e-teto-solar-pela-chave",
+        "instalacao-de-painel-digital",
+        "instalacao-de-camera-de-re",
+        "painel-de-ar-condicionado-digital",
+        "secagem-dos-discos-de-freio-em-chuva",
+        "recalibrar-o-monitor-de-pressao-dos-pneus",
+        "bipe-ao-trancar-o-carro",
+        "bipe-de-porta-aberta-com-a-ignicao-ligada",
+        "som-de-motor-dentro-da-cabine"
+      ]
+    },
+    "golf-8": {
+      "title": "Golf 8",
+      "subtitle": "8ª geração",
+      "years": {
+        "from": 2019,
+        "through": null
+      },
+      "sourceSlug": "golf-8",
+      "features": [
+        "luzes-ao-chegar-e-sair-do-carro",
+        "luz-de-curva-pelo-farol-de-neblina",
+        "controle-da-luz-diurna-na-central",
+        "lanternas-traseiras-junto-com-a-luz-diurna",
+        "luz-diurna-com-o-freio-de-estacionamento",
+        "luz-diurna-por-posicao-da-chave",
+        "luz-de-chao-com-retrovisores-rebatidos",
+        "cores-das-luzes-ambientes",
+        "transicao-suave-das-luzes-internas",
+        "luz-interna-com-a-tampa-traseira-aberta",
+        "memoria-do-farol-alto-automatico",
+        "animacao-de-boas-vindas-nos-farois-iq-light",
+        "numero-de-piscadas-da-seta-de-conforto",
+        "sensibilidade-dos-farois-automaticos",
+        "estimativa-de-litros-para-completar-o-tanque",
+        "indicadores-esportivos-no-painel-digital",
+        "temperatura-do-oleo-no-painel",
+        "estilos-do-painel-digital",
+        "animacao-ao-mudar-a-tela-do-painel",
+        "logo-ao-ligar-o-painel",
+        "logo-ao-ligar-a-central",
+        "mapa-ou-bussola-no-painel",
+        "tela-de-informacoes-fora-de-estrada",
+        "escala-do-velocimetro-no-painel-digital",
+        "cronometro-de-voltas",
+        "modo-esc-sport",
+        "resposta-do-acelerador",
+        "peso-da-direcao",
+        "perfis-de-direcao-na-central",
+        "memoria-do-perfil-de-conducao",
+        "ajuste-da-atuacao-do-xds",
+        "distribuicao-de-tracao-4motion",
+        "memoria-do-assistente-de-faixa",
+        "ponto-de-intervencao-do-assistente-de-faixa",
+        "centralizacao-na-faixa",
+        "passos-de-1-km-h-no-piloto-automatico",
+        "piloto-convencional-junto-com-o-adaptativo",
+        "reconhecimento-de-placas-de-transito",
+        "rebatimento-dos-retrovisores-ao-trancar",
+        "retrovisor-abaixa-na-re",
+        "vidros-e-teto-solar-pela-chave",
+        "abertura-completa-do-teto-pela-chave",
+        "vidros-pela-macaneta-sem-chave",
+        "vidros-apos-desligar-a-ignicao",
+        "frequencia-do-lavador-de-farois",
+        "passada-extra-do-limpador",
+        "limpador-traseiro-ao-engatar-a-re",
+        "configuracao-do-start-stop",
+        "reinicio-do-lembrete-de-revisao",
+        "registro-de-bateria-nova",
+        "carplay-e-android-auto-sem-fio",
+        "dois-celulares-via-bluetooth",
+        "configuracao-de-audio-da-central",
+        "ocultar-radio-am",
+        "sinal-luminoso-em-frenagem-de-emergencia",
+        "alerta-de-saida-ao-abrir-a-porta",
+        "secagem-dos-discos-de-freio-em-chuva",
+        "recalibrar-o-monitor-de-pressao-dos-pneus",
+        "memoria-do-aquecimento-dos-bancos",
+        "temperatura-do-aquecimento-dos-bancos",
+        "memoria-das-configuracoes-do-ar-condicionado",
+        "velocidade-do-ventilador-no-modo-automatico",
+        "bipe-ao-trancar-o-carro",
+        "bipe-de-porta-aberta-com-a-ignicao-ligada",
+        "bipe-da-tampa-traseira-eletrica",
+        "aviso-sonoro-ao-engatar-a-re",
+        "trancar-com-o-motor-ligado",
+        "travamento-automatico-em-movimento",
+        "destravar-ao-engatar-p",
+        "reconhecimento-do-modulo-de-reboque",
+        "instalacao-de-camera-de-re"
+      ]
+    },
+    "tiguan": {
+      "title": "Tiguan",
+      "subtitle": "2ª geração · AD1 / BW",
+      "years": {
+        "from": 2016,
+        "through": 2023
+      },
+      "sourceSlug": "tiguan-ad1",
+      "features": [
+        "tempo-das-luzes-apos-desligar-o-carro",
+        "luzes-de-saida-e-chegada-pela-neblina",
+        "luz-de-curva-pelo-farol-de-neblina",
+        "controle-da-luz-diurna-na-central",
+        "luz-diurna-somente-em-auto",
+        "luz-diurna-com-o-freio-de-estacionamento",
+        "lanternas-traseiras-junto-com-a-luz-diurna",
+        "mais-segmentos-acesos-na-luz-de-freio",
+        "luz-de-chao-com-retrovisores-rebatidos",
+        "configuracao-das-luzes-ambientes",
+        "intensidade-das-luzes-da-cabine-e-das-portas",
+        "assistente-automatico-de-farol-alto",
+        "seta-traseira-sequencial",
+        "numero-de-piscadas-da-seta-de-conforto",
+        "sinal-luminoso-em-frenagem-de-emergencia",
+        "movimento-dos-ponteiros-na-partida",
+        "temperatura-do-oleo-no-painel",
+        "estimativa-de-litros-para-completar-o-tanque",
+        "estilos-do-painel-digital",
+        "modo-de-conducao-no-painel",
+        "tela-de-informacoes-fora-de-estrada",
+        "grafico-dos-sensores-de-estacionamento",
+        "logo-ao-ligar-a-central",
+        "estado-da-bateria-no-painel",
+        "frequencia-do-lavador-de-farois",
+        "passada-extra-do-limpador",
+        "limpador-traseiro-ao-engatar-a-re",
+        "mudanca-automatica-de-horario",
+        "memoria-do-start-stop",
+        "memoria-do-auto-hold",
+        "lembrete-de-revisao",
+        "registro-de-bateria-nova",
+        "reconhecimento-do-modulo-de-reboque",
+        "cronometro-de-voltas",
+        "modo-esc-sport",
+        "ajuste-da-atuacao-do-xds",
+        "peso-da-direcao-no-modo-individual",
+        "perfis-de-direcao-na-central",
+        "resposta-do-acelerador-no-modo-individual",
+        "valvula-do-escapamento-por-modo",
+        "distribuicao-de-tracao-4motion",
+        "ajustes-do-assistente-de-faixa",
+        "reconhecimento-de-placas-de-transito",
+        "assistente-de-partida-em-rampa",
+        "memoria-da-distancia-do-piloto-adaptativo",
+        "assistente-de-manobra-com-reboque",
+        "volume-do-radio-em-manobras",
+        "carplay-e-android-auto-com-cabo",
+        "carplay-e-android-auto-sem-fio",
+        "sensibilidade-do-microfone-viva-voz",
+        "dois-celulares-via-bluetooth",
+        "fechar-os-vidros-ao-detectar-chuva",
+        "memoria-do-aquecimento-dos-bancos",
+        "memoria-de-recirculacao-e-air-care",
+        "velocidade-do-ventilador-no-modo-automatico",
+        "tempo-de-desembacamento-traseiro-e-dos-retrovisores",
+        "rebatimento-dos-retrovisores-ao-trancar",
+        "retrovisor-abaixa-na-re",
+        "vidros-e-teto-solar-pela-chave",
+        "banco-do-motorista-recua-para-facilitar-a-entrada",
+        "trancar-com-o-motor-ligado",
+        "travamento-automatico-em-movimento",
+        "destravar-ao-engatar-p",
+        "instalacao-de-painel-digital",
+        "instalacao-de-camera-de-re",
+        "painel-de-ar-condicionado-digital",
+        "secagem-dos-discos-de-freio-em-chuva",
+        "recalibrar-o-monitor-de-pressao-dos-pneus",
+        "bipe-ao-trancar-o-carro",
+        "bipe-de-porta-aberta-com-a-ignicao-ligada",
+        "som-de-motor-dentro-da-cabine"
+      ]
+    },
+    "tiguan-2024": {
+      "title": "Tiguan 2024+",
+      "subtitle": "3ª geração · CT",
+      "years": {
+        "from": 2024,
+        "through": null
+      },
+      "sourceSlug": "tiguan-ct",
+      "features": [
+        "luzes-ao-chegar-e-sair-do-carro",
+        "controle-da-luz-diurna-na-central",
+        "lanternas-traseiras-junto-com-a-luz-diurna",
+        "cores-das-luzes-ambientes",
+        "numero-de-piscadas-da-seta-de-conforto",
+        "rebatimento-dos-retrovisores-ao-trancar",
+        "retrovisor-abaixa-na-re",
+        "passada-extra-do-limpador",
+        "limpador-traseiro-ao-engatar-a-re",
+        "travamento-automatico-em-movimento",
+        "tela-de-informacoes-fora-de-estrada",
+        "secagem-dos-discos-de-freio-em-chuva"
+      ]
+    },
+    "polo": {
+      "title": "Polo",
+      "subtitle": "",
+      "years": {
+        "from": 2017,
+        "through": null
+      },
+      "sourceSlug": "polo-aw",
+      "features": [
+        "movimento-dos-ponteiros-na-partida",
+        "temperatura-do-oleo-no-painel",
+        "velocidade-digital-no-painel",
+        "mapa-ou-bussola-no-painel",
+        "luzes-ao-chegar-e-sair-do-carro",
+        "assistente-automatico-de-farol-alto",
+        "transicao-suave-das-luzes-internas",
+        "memoria-do-assistente-de-faixa",
+        "ponto-de-intervencao-do-assistente-de-faixa",
+        "menu-de-distancia-do-piloto-adaptativo",
+        "passos-de-1-km-h-no-piloto-automatico",
+        "ativacao-e-som-dos-sensores-de-estacionamento",
+        "rebatimento-dos-retrovisores-ao-trancar",
+        "vidros-pelo-controle-da-chave",
+        "retrovisor-abaixa-na-re",
+        "resposta-do-acelerador",
+        "peso-da-direcao",
+        "perfis-de-direcao-na-central",
+        "bipe-ao-trancar-o-carro",
+        "aviso-de-velocidade-programada",
+        "som-de-motor-dentro-da-cabine",
+        "alarme-original-com-sinal-sonoro",
+        "travar-ao-rodar-e-destravar-em-p",
+        "liberar-a-tampa-traseira-pela-chave",
+        "carplay-e-android-auto-sem-fio",
+        "sensibilidade-do-microfone-viva-voz",
+        "ocultar-radio-am",
+        "registro-de-bateria-nova",
+        "reinicio-do-lembrete-de-revisao",
+        "instalacao-de-camera-de-re",
+        "luzes-na-area-dos-pes",
+        "velocidade-do-ventilador-no-modo-automatico"
+      ]
+    },
+    "t-cross": {
+      "title": "T-Cross",
+      "subtitle": "",
+      "years": {
+        "from": 2018,
+        "through": null
+      },
+      "sourceSlug": "t-cross",
+      "features": [
+        "luzes-ao-chegar-e-sair-do-carro",
+        "assistente-automatico-de-farol-alto",
+        "lanternas-traseiras-junto-com-a-luz-diurna",
+        "memoria-do-assistente-de-faixa",
+        "ponto-de-intervencao-do-assistente-de-faixa",
+        "reconhecimento-de-placas-de-transito",
+        "menu-de-distancia-do-piloto-adaptativo",
+        "passos-de-1-km-h-no-piloto-automatico",
+        "ativacao-e-som-dos-sensores-de-estacionamento",
+        "movimento-dos-ponteiros-na-partida",
+        "temperatura-do-oleo-no-painel",
+        "mapa-ou-bussola-no-painel",
+        "logo-ao-ligar-a-central",
+        "rebatimento-dos-retrovisores-ao-trancar",
+        "vidros-pelo-controle-da-chave",
+        "registro-de-bateria-nova",
+        "reinicio-do-lembrete-de-revisao",
+        "bipe-ao-trancar-o-carro",
+        "bipe-de-porta-aberta-com-a-ignicao-ligada",
+        "aviso-de-velocidade-programada",
+        "travar-ao-rodar-e-destravar-em-p",
+        "liberar-a-tampa-traseira-pela-chave",
+        "memoria-do-aquecimento-dos-bancos",
+        "velocidade-do-ventilador-no-modo-automatico",
+        "resposta-do-acelerador",
+        "luzes-na-area-dos-pes",
+        "compatibilidade-da-luz-de-placa-em-led",
+        "carplay-e-android-auto-sem-fio"
+      ]
+    }
+  },
+  "features": {
+    "luzes-ao-chegar-e-sair-do-carro": {
+      "name": "Luzes ao chegar e sair do carro",
+      "category": "Iluminação",
+      "effect": "Usa as luzes externas para iluminar o caminho ao abrir ou trancar o carro. A duração depende da versão."
+    },
+    "luz-de-curva-pelo-farol-de-neblina": {
+      "name": "Luz de curva pelo farol de neblina",
+      "category": "Iluminação",
+      "effect": "Configura se o farol de neblina do lado da curva acende em manobras e curvas lentas."
+    },
+    "farois-de-neblina-com-o-farol-alto": {
+      "name": "Faróis de neblina com o farol alto",
+      "category": "Iluminação",
+      "effect": "Ajusta o comportamento dos faróis de neblina quando o farol alto está ligado."
+    },
+    "controle-da-luz-diurna-na-central": {
+      "name": "Controle da luz diurna na central",
+      "category": "Iluminação",
+      "effect": "Exibe o ajuste das luzes diurnas (DRL) no menu do carro."
+    },
+    "luz-diurna-com-o-freio-de-estacionamento": {
+      "name": "Luz diurna com o freio de estacionamento",
+      "category": "Iluminação",
+      "effect": "Ajusta a luz diurna enquanto o carro está parado com o freio de estacionamento acionado."
+    },
+    "luz-diurna-ao-acionar-a-seta": {
+      "name": "Luz diurna ao acionar a seta",
+      "category": "Iluminação",
+      "effect": "Ajusta o brilho da luz diurna do lado que está sinalizando a manobra."
+    },
+    "farois-automaticos-em-chuva-e-estrada": {
+      "name": "Faróis automáticos em chuva e estrada",
+      "category": "Iluminação",
+      "effect": "Acrescenta chuva e velocidade às condições de acionamento dos faróis automáticos."
+    },
+    "sensibilidade-dos-farois-automaticos": {
+      "name": "Sensibilidade dos faróis automáticos",
+      "category": "Iluminação",
+      "effect": "Ajusta a resposta do sensor à claridade, como ao entrar em um túnel."
+    },
+    "sinal-luminoso-em-frenagem-de-emergencia": {
+      "name": "Sinal luminoso em frenagem de emergência",
+      "category": "Iluminação",
+      "effect": "Verifica se o carro pode sinalizar uma frenagem brusca pelas luzes traseiras.",
+      "restriction": "A oficina verifica os módulos de freio e iluminação e as condições de ativação do sinal."
+    },
+    "numero-de-piscadas-da-seta-de-conforto": {
+      "name": "Número de piscadas da seta de conforto",
+      "category": "Iluminação",
+      "effect": "Ajusta quantas vezes a seta pisca ao dar um toque leve na alavanca."
+    },
+    "transicao-suave-das-luzes-internas": {
+      "name": "Transição suave das luzes internas",
+      "category": "Iluminação interna",
+      "effect": "Faz a iluminação da cabine acender e apagar gradualmente."
+    },
+    "visual-da-central-rcd-rns-510": {
+      "name": "Visual da central RCD/RNS 510",
+      "category": "Multimídia",
+      "effect": "Personaliza a tela de abertura e o tema em centrais compatíveis."
+    },
+    "limite-de-velocidade-no-mapa": {
+      "name": "Limite de velocidade no mapa",
+      "category": "Multimídia",
+      "effect": "Mostra o limite da via quando o dado está disponível na navegação da central."
+    },
+    "grafico-dos-sensores-de-estacionamento": {
+      "name": "Gráfico dos sensores de estacionamento",
+      "category": "Assistentes de condução",
+      "effect": "Mostra na tela de que lado os sensores instalados detectaram um obstáculo."
+    },
+    "movimento-dos-ponteiros-na-partida": {
+      "name": "Movimento dos ponteiros na partida",
+      "category": "Painel",
+      "effect": "Os ponteiros percorrem a escala e voltam à posição de leitura ao ligar o painel."
+    },
+    "estimativa-de-litros-para-completar-o-tanque": {
+      "name": "Estimativa de litros para completar o tanque",
+      "category": "Painel",
+      "effect": "Mostra no painel quanto combustível aproximadamente cabe no tanque."
+    },
+    "travamento-automatico-em-movimento": {
+      "name": "Travamento automático em movimento",
+      "category": "Travas",
+      "effect": "Configura o travamento das portas quando o veículo começa a rodar."
+    },
+    "destravamento-ao-desligar-ou-engatar-p": {
+      "name": "Destravamento ao desligar ou engatar P",
+      "category": "Travas",
+      "effect": "Define quando as portas destravam automaticamente ao parar, conforme a versão."
+    },
+    "destravar-a-porta-do-motorista-primeiro": {
+      "name": "Destravar a porta do motorista primeiro",
+      "category": "Travas",
+      "effect": "O primeiro toque no controle libera só o lado do motorista."
+    },
+    "musica-pelo-bluetooth": {
+      "name": "Música pelo Bluetooth",
+      "category": "Multimídia",
+      "effect": "Permite reproduzir as músicas e o áudio do celular em uma central compatível."
+    },
+    "ocultar-radio-am": {
+      "name": "Ocultar rádio AM",
+      "category": "Multimídia",
+      "effect": "Retira a faixa AM da lista de fontes de áudio."
+    },
+    "carplay-e-android-auto-com-cabo": {
+      "name": "CarPlay e Android Auto com cabo",
+      "category": "Multimídia",
+      "effect": "Consulta a integração do celular com a central. Conforme o rádio, pode exigir troca do aparelho.",
+      "restriction": "Pode depender de licença original, central compatível ou instalação de componentes."
+    },
+    "passada-extra-do-limpador": {
+      "name": "Passada extra do limpador",
+      "category": "Conforto",
+      "effect": "O limpador faz uma segunda passagem depois que a água escorre pelo vidro."
+    },
+    "memoria-do-start-stop": {
+      "name": "Memória do start-stop",
+      "category": "Conforto",
+      "effect": "Consulta se o sistema que desliga o motor nas paradas pode guardar o último ajuste.",
+      "restriction": "Requer start-stop de fábrica e software compatível."
+    },
+    "lembrete-de-revisao": {
+      "name": "Lembrete de revisão",
+      "category": "Manutenção",
+      "effect": "Configura o intervalo do aviso conforme o plano de manutenção do veículo."
+    },
+    "compatibilidade-da-luz-de-placa-em-led": {
+      "name": "Compatibilidade da luz de placa em LED",
+      "category": "Iluminação",
+      "effect": "Consulta o ajuste de monitoramento após a instalação de lâmpadas adequadas ao veículo.",
+      "restriction": "Requer lâmpada compatível e avaliação da instalação."
+    },
+    "entrada-aux-na-central": {
+      "name": "Entrada AUX na central",
+      "category": "Instalação e configuração",
+      "effect": "Verifica a instalação e a ativação de uma entrada de áudio por cabo."
+    },
+    "instalacao-de-camera-de-re": {
+      "name": "Instalação de câmera de ré",
+      "category": "Instalação e configuração",
+      "effect": "Verifica as peças e a integração da câmera com uma central compatível.",
+      "restriction": "Pode exigir câmera, chicote e instalação. Confirme o que a oficina consegue fazer."
+    },
+    "fechar-os-vidros-ao-detectar-chuva": {
+      "name": "Fechar os vidros ao detectar chuva",
+      "category": "Climatização",
+      "effect": "Consulta o fechamento dos vidros pelo sensor de chuva em veículos compatíveis.",
+      "restriction": "Requer sensor de chuva e módulos compatíveis."
+    },
+    "velocidade-do-ventilador-no-modo-automatico": {
+      "name": "Velocidade do ventilador no modo automático",
+      "category": "Climatização",
+      "effect": "Mantém as barras da ventilação visíveis com o ar-condicionado em AUTO."
+    },
+    "bipe-ao-trancar-o-carro": {
+      "name": "Bipe ao trancar o carro",
+      "category": "Avisos sonoros",
+      "effect": "Consulta a confirmação sonora pelo alarme ou buzina compatível."
+    },
+    "volume-e-tom-dos-sensores-de-estacionamento": {
+      "name": "Volume e tom dos sensores de estacionamento",
+      "category": "Avisos sonoros",
+      "effect": "Ajusta como os sensores avisam que o carro se aproxima de um obstáculo.",
+      "restriction": "Requer sensores de estacionamento e módulo compatíveis."
+    },
+    "assistente-de-partida-em-rampa": {
+      "name": "Assistente de partida em rampa",
+      "category": "Assistentes de condução",
+      "effect": "Consulta os ajustes para o carro manter os freios por um instante ao arrancar em uma subida."
+    },
+    "ajuste-da-atuacao-do-xds": {
+      "name": "Ajuste da atuação do XDS",
+      "category": "Ajustes de condução",
+      "effect": "Consulta a configuração de fábrica do controle eletrônico de tração em curvas."
+    },
+    "iluminacao-extra-nas-manobras-de-re": {
+      "name": "Iluminação extra nas manobras de ré",
+      "category": "Iluminação",
+      "effect": "Consulta se outros pontos de luz podem ajudar a iluminar a área da manobra."
+    },
+    "luz-diurna-pelos-farois-de-neblina": {
+      "name": "Luz diurna pelos faróis de neblina",
+      "category": "Iluminação",
+      "effect": "Consulta o uso dos faróis de neblina como luz diurna em um conjunto compatível.",
+      "restriction": "A oficina precisa verificar o conjunto de iluminação antes de confirmar o ajuste."
+    },
+    "luz-diurna-somente-em-auto": {
+      "name": "Luz diurna somente em AUTO",
+      "category": "Iluminação",
+      "effect": "Consulta a posição da chave dos faróis que aciona a luz diurna."
+    },
+    "configuracao-das-luzes-ambientes": {
+      "name": "Configuração das luzes ambientes",
+      "category": "Iluminação interna",
+      "effect": "Ajusta a iluminação decorativa da cabine quando o carro tem os pontos de luz."
+    },
+    "temperatura-do-oleo-no-painel": {
+      "name": "Temperatura do óleo no painel",
+      "category": "Painel",
+      "effect": "Exibe a leitura da temperatura do óleo quando o veículo fornece esse dado."
+    },
+    "calibracao-do-consumo-exibido": {
+      "name": "Calibração do consumo exibido",
+      "category": "Painel",
+      "effect": "Ajusta a leitura de consumo do computador de bordo pela referência medida no abastecimento."
+    },
+    "instalacao-de-piloto-automatico": {
+      "name": "Instalação de piloto automático",
+      "category": "Instalação e configuração",
+      "effect": "Consulta os comandos, módulos e configuração necessários para manter a velocidade programada.",
+      "restriction": "Pode exigir a instalação de comandos, chicote ou módulos."
+    },
+    "comandos-no-volante-e-borboletas-de-marcha": {
+      "name": "Comandos no volante e borboletas de marcha",
+      "category": "Instalação e configuração",
+      "effect": "Verifica a instalação e a integração de um volante compatível com áudio e câmbio.",
+      "restriction": "Requer volante, comandos e módulos compatíveis. As borboletas dependem do câmbio."
+    },
+    "lanternas-traseiras-de-led": {
+      "name": "Lanternas traseiras de LED",
+      "category": "Instalação e configuração",
+      "effect": "Consulta a instalação e configuração de um conjunto de lanternas compatível.",
+      "restriction": "Pode exigir lanternas, chicote e módulos compatíveis."
+    },
+    "limpador-traseiro-ao-engatar-a-re": {
+      "name": "Limpador traseiro ao engatar a ré",
+      "category": "Conforto",
+      "effect": "Permite ajustar a passada automática do limpador traseiro durante uma manobra de ré."
+    },
+    "rebatimento-dos-retrovisores-ao-trancar": {
+      "name": "Rebatimento dos retrovisores ao trancar",
+      "category": "Conforto",
+      "effect": "Fecha os retrovisores ao travar o carro quando eles têm rebatimento elétrico.",
+      "restriction": "Requer retrovisores com função de rebatimento elétrico."
+    },
+    "retrovisor-abaixa-na-re": {
+      "name": "Retrovisor abaixa na ré",
+      "category": "Conforto",
+      "effect": "Inclina o espelho do passageiro para ajudar a enxergar a guia ao estacionar.",
+      "restriction": "Depende do módulo da porta e da posição memorizada do retrovisor."
+    },
+    "vidros-e-teto-solar-pela-chave": {
+      "name": "Vidros e teto solar pela chave",
+      "category": "Conforto",
+      "effect": "Consulta a abertura ou fechamento pelo controle nos carros com os equipamentos compatíveis.",
+      "restriction": "O acionamento remoto do teto depende do conjunto do teto solar."
+    },
+    "modo-esc-sport": {
+      "name": "Modo ESC Sport",
+      "category": "Ajustes de condução",
+      "effect": "Consulta se o veículo possui um modo esportivo de fábrica no controle de estabilidade.",
+      "restriction": "A disponibilidade depende da versão do módulo de estabilidade."
+    },
+    "peso-da-direcao": {
+      "name": "Peso da direção",
+      "category": "Ajustes de condução",
+      "effect": "Consulta ajustes de assistência da direção disponíveis para o veículo."
+    },
+    "memoria-do-aquecimento-dos-bancos": {
+      "name": "Memória do aquecimento dos bancos",
+      "category": "Climatização",
+      "effect": "Recupera o nível escolhido no último uso, quando os bancos têm aquecimento.",
+      "restriction": "Requer bancos com aquecimento."
+    },
+    "ativacao-do-monitor-de-pressao-dos-pneus": {
+      "name": "Ativação do monitor de pressão dos pneus",
+      "category": "Segurança",
+      "effect": "Consulta se o carro tem componentes compatíveis para exibir alertas de pressão.",
+      "restriction": "Depende dos módulos e do tipo de monitoramento de pressão."
+    },
+    "tempo-das-luzes-apos-desligar-o-carro": {
+      "name": "Tempo das luzes após desligar o carro",
+      "category": "Iluminação",
+      "effect": "Ajusta por quanto tempo a área em volta do carro fica iluminada ao sair."
+    },
+    "luzes-de-saida-e-chegada-pela-neblina": {
+      "name": "Luzes de saída e chegada pela neblina",
+      "category": "Iluminação",
+      "effect": "Consulta usar os faróis de neblina na iluminação ao abrir ou trancar o veículo."
+    },
+    "lanternas-traseiras-junto-com-a-luz-diurna": {
+      "name": "Lanternas traseiras junto com a luz diurna",
+      "category": "Iluminação",
+      "effect": "Consulta acender as lanternas traseiras quando as luzes diurnas dianteiras estão ligadas."
+    },
+    "mais-segmentos-acesos-na-luz-de-freio": {
+      "name": "Mais segmentos acesos na luz de freio",
+      "category": "Iluminação",
+      "effect": "Consulta quais partes do conjunto traseiro podem sinalizar a frenagem."
+    },
+    "luz-de-chao-com-retrovisores-rebatidos": {
+      "name": "Luz de chão com retrovisores rebatidos",
+      "category": "Iluminação",
+      "effect": "Mantém a luz de cortesia sob os retrovisores disponível mesmo quando estão fechados."
+    },
+    "intensidade-das-luzes-da-cabine-e-das-portas": {
+      "name": "Intensidade das luzes da cabine e das portas",
+      "category": "Iluminação interna",
+      "effect": "Ajusta o brilho das luzes internas e de cortesia instaladas."
+    },
+    "assistente-automatico-de-farol-alto": {
+      "name": "Assistente automático de farol alto",
+      "category": "Iluminação",
+      "effect": "Consulta o farol alto assistido em carros equipados com câmera frontal compatível.",
+      "restriction": "Requer câmera dianteira compatível."
+    },
+    "estilos-do-painel-digital": {
+      "name": "Estilos do painel digital",
+      "category": "Painel",
+      "effect": "Mostra outras opções de organização do quadro de instrumentos compatível."
+    },
+    "modo-de-conducao-no-painel": {
+      "name": "Modo de condução no painel",
+      "category": "Painel",
+      "effect": "Mostra no quadro de instrumentos qual perfil de direção foi escolhido."
+    },
+    "tela-de-informacoes-fora-de-estrada": {
+      "name": "Tela de informações fora de estrada",
+      "category": "Multimídia",
+      "effect": "Consulta a tela para visualizar informações como bússola e inclinação."
+    },
+    "logo-ao-ligar-a-central": {
+      "name": "Logo ao ligar a central",
+      "category": "Multimídia",
+      "effect": "Escolhe a identificação que aparece enquanto a central compatível está iniciando."
+    },
+    "estado-da-bateria-no-painel": {
+      "name": "Estado da bateria no painel",
+      "category": "Painel",
+      "effect": "Consulta a exibição de informações da carga da bateria."
+    },
+    "frequencia-do-lavador-de-farois": {
+      "name": "Frequência do lavador de faróis",
+      "category": "Conforto",
+      "effect": "Ajusta a frequência de acionamento quando o carro tem lavador de faróis."
+    },
+    "mudanca-automatica-de-horario": {
+      "name": "Mudança automática de horário",
+      "category": "Conforto",
+      "effect": "Consulta a opção de ajuste automático do relógio e as regras de fuso da central."
+    },
+    "memoria-do-auto-hold": {
+      "name": "Memória do Auto Hold",
+      "category": "Conforto",
+      "effect": "Consulta se o assistente de manter o carro parado pode guardar a última escolha.",
+      "restriction": "Requer freio de estacionamento elétrico e Auto Hold de fábrica."
+    },
+    "registro-de-bateria-nova": {
+      "name": "Registro de bateria nova",
+      "category": "Manutenção",
+      "effect": "Verifica se o sistema de carga precisa saber que a bateria foi substituída."
+    },
+    "reconhecimento-do-modulo-de-reboque": {
+      "name": "Reconhecimento do módulo de reboque",
+      "category": "Instalação e configuração",
+      "effect": "Consulta a configuração de um engate elétrico para que os sistemas reconheçam a carretinha.",
+      "restriction": "Aplicável após instalação de engate e módulo compatíveis."
+    },
+    "cronometro-de-voltas": {
+      "name": "Cronômetro de voltas",
+      "category": "Painel",
+      "effect": "Exibe um cronômetro no painel para uso em pista fechada."
+    },
+    "peso-da-direcao-no-modo-individual": {
+      "name": "Peso da direção no modo Individual",
+      "category": "Ajustes de condução",
+      "effect": "Ajusta a assistência da direção em um perfil de condução personalizável."
+    },
+    "perfis-de-direcao-na-central": {
+      "name": "Perfis de direção na central",
+      "category": "Ajustes de condução",
+      "effect": "Consulta os modos de condução que podem aparecer na central compatível."
+    },
+    "resposta-do-acelerador-no-modo-individual": {
+      "name": "Resposta do acelerador no modo Individual",
+      "category": "Ajustes de condução",
+      "effect": "Consulta como o pedal reage em um perfil personalizável."
+    },
+    "valvula-do-escapamento-por-modo": {
+      "name": "Válvula do escapamento por modo",
+      "category": "Ajustes de condução",
+      "effect": "Verifica o comportamento da válvula original de escapamento por perfil de condução.",
+      "restriction": "Requer escapamento original com válvulas compatíveis."
+    },
+    "distribuicao-de-tracao-4motion": {
+      "name": "Distribuição de tração 4MOTION",
+      "category": "Ajustes de condução",
+      "effect": "Consulta os ajustes originais de distribuição de força em veículos com tração integral.",
+      "restriction": "Requer tração integral 4MOTION."
+    },
+    "memoria-de-recirculacao-e-air-care": {
+      "name": "Memória de recirculação e Air Care",
+      "category": "Climatização",
+      "effect": "Consulta se a climatização pode lembrar os ajustes de gerenciamento do ar."
+    },
+    "tempo-de-desembacamento-traseiro-e-dos-retrovisores": {
+      "name": "Tempo de desembaçamento traseiro e dos retrovisores",
+      "category": "Climatização",
+      "effect": "Consulta a duração do aquecimento, conforme os equipamentos instalados."
+    },
+    "ajustes-do-assistente-de-faixa": {
+      "name": "Ajustes do assistente de faixa",
+      "category": "Assistentes de condução",
+      "effect": "Consulta sensibilidade, vibração e memória do assistente de faixa com câmera compatível.",
+      "restriction": "Requer câmera compatível e assistente de faixa de fábrica."
+    },
+    "reconhecimento-de-placas-de-transito": {
+      "name": "Reconhecimento de placas de trânsito",
+      "category": "Assistentes de condução",
+      "effect": "Verifica se o carro pode mostrar placas detectadas pela câmera frontal no painel.",
+      "restriction": "Pode depender de câmera, painel, software e suporte à região."
+    },
+    "memoria-da-distancia-do-piloto-adaptativo": {
+      "name": "Memória da distância do piloto adaptativo",
+      "category": "Assistentes de condução",
+      "effect": "Consulta se o carro guarda a última distância de acompanhamento escolhida no ACC.",
+      "restriction": "Requer piloto automático adaptativo (ACC)."
+    },
+    "volume-do-radio-em-manobras": {
+      "name": "Volume do rádio em manobras",
+      "category": "Multimídia",
+      "effect": "Ajusta quanto o som da central diminui quando os sensores de estacionamento ligam."
+    },
+    "sensibilidade-do-microfone-viva-voz": {
+      "name": "Sensibilidade do microfone viva-voz",
+      "category": "Multimídia",
+      "effect": "Ajusta a captação da voz durante chamadas pelo sistema original."
+    },
+    "dois-celulares-via-bluetooth": {
+      "name": "Dois celulares via Bluetooth",
+      "category": "Multimídia",
+      "effect": "Consulta o pareamento simultâneo de dois aparelhos na central."
+    },
+    "trancar-com-o-motor-ligado": {
+      "name": "Trancar com o motor ligado",
+      "category": "Travas",
+      "effect": "Consulta o uso do comando da chave para travar o carro durante uma parada com o motor ligado."
+    },
+    "destravar-ao-engatar-p": {
+      "name": "Destravar ao engatar P",
+      "category": "Travas",
+      "effect": "Consulta destravar as portas ao selecionar estacionamento no câmbio automático."
+    },
+    "instalacao-de-painel-digital": {
+      "name": "Instalação de painel digital",
+      "category": "Instalação e configuração",
+      "effect": "Consulta as peças, integrações e diagnóstico necessários para instalar o quadro digital.",
+      "restriction": "Pode exigir peças, configuração complementar e diagnóstico especializado."
+    },
+    "painel-de-ar-condicionado-digital": {
+      "name": "Painel de ar-condicionado digital",
+      "category": "Instalação e configuração",
+      "effect": "Consulta a troca de comandos e a compatibilidade do Climatronic com o veículo.",
+      "restriction": "Depende da compatibilidade entre o painel, o sistema de ar e os módulos do carro."
+    },
+    "secagem-dos-discos-de-freio-em-chuva": {
+      "name": "Secagem dos discos de freio em chuva",
+      "category": "Segurança",
+      "effect": "Verifica a função original que ajuda a retirar água dos discos em condições previstas pelo fabricante.",
+      "restriction": "Depende do sistema de freios de fábrica."
+    },
+    "recalibrar-o-monitor-de-pressao-dos-pneus": {
+      "name": "Recalibrar o monitor de pressão dos pneus",
+      "category": "Manutenção",
+      "effect": "Consulta o ajuste do sistema após calibrar ou trocar os pneus."
+    },
+    "bipe-de-porta-aberta-com-a-ignicao-ligada": {
+      "name": "Bipe de porta aberta com a ignição ligada",
+      "category": "Avisos sonoros",
+      "effect": "Consulta o comportamento do aviso sonoro enquanto o veículo está parado com a porta aberta."
+    },
+    "som-de-motor-dentro-da-cabine": {
+      "name": "Som de motor dentro da cabine",
+      "category": "Avisos sonoros",
+      "effect": "Ajusta a intensidade do som gerado pelo equipamento original na cabine.",
+      "restriction": "Requer o atuador sonoro original dedicado."
+    },
+    "luz-diurna-por-posicao-da-chave": {
+      "name": "Luz diurna por posição da chave",
+      "category": "Iluminação",
+      "effect": "Consulta como as luzes diurnas respondem em cada posição do comando dos faróis."
+    },
+    "cores-das-luzes-ambientes": {
+      "name": "Cores das luzes ambientes",
+      "category": "Iluminação interna",
+      "effect": "Consulta cores e zonas ajustáveis, conforme os pontos de luz da cabine.",
+      "restriction": "Depende das zonas e LEDs instalados."
+    },
+    "luz-interna-com-a-tampa-traseira-aberta": {
+      "name": "Luz interna com a tampa traseira aberta",
+      "category": "Iluminação interna",
+      "effect": "Consulta como a iluminação da cabine responde ao abrir o porta-malas."
+    },
+    "memoria-do-farol-alto-automatico": {
+      "name": "Memória do farol alto automático",
+      "category": "Iluminação",
+      "effect": "Consulta se o assistente de farol alto recupera o ajuste anterior."
+    },
+    "animacao-de-boas-vindas-nos-farois-iq-light": {
+      "name": "Animação de boas-vindas nos faróis IQ.LIGHT",
+      "category": "Iluminação",
+      "effect": "Consulta as sequências de apresentação disponíveis para o conjunto de iluminação instalado.",
+      "restriction": "Requer faróis IQ.LIGHT compatíveis."
+    },
+    "indicadores-esportivos-no-painel-digital": {
+      "name": "Indicadores esportivos no painel digital",
+      "category": "Painel",
+      "effect": "Consulta a exibição de dados de condução no quadro de instrumentos."
+    },
+    "animacao-ao-mudar-a-tela-do-painel": {
+      "name": "Animação ao mudar a tela do painel",
+      "category": "Painel",
+      "effect": "Personaliza a transição entre as telas compatíveis do quadro de instrumentos."
+    },
+    "logo-ao-ligar-o-painel": {
+      "name": "Logo ao ligar o painel",
+      "category": "Painel",
+      "effect": "Escolhe a identificação exibida ao iniciar o quadro de instrumentos."
+    },
+    "mapa-ou-bussola-no-painel": {
+      "name": "Mapa ou bússola no painel",
+      "category": "Painel",
+      "effect": "Consulta os dados de navegação que podem aparecer no quadro digital."
+    },
+    "escala-do-velocimetro-no-painel-digital": {
+      "name": "Escala do velocímetro no painel digital",
+      "category": "Painel",
+      "effect": "Ajusta como os números de velocidade são apresentados no quadro de instrumentos."
+    },
+    "resposta-do-acelerador": {
+      "name": "Resposta do acelerador",
+      "category": "Ajustes de condução",
+      "effect": "Consulta o ajuste de sensibilidade do pedal dentro dos recursos do veículo."
+    },
+    "memoria-do-perfil-de-conducao": {
+      "name": "Memória do perfil de condução",
+      "category": "Ajustes de condução",
+      "effect": "Consulta se o veículo inicia com o modo de condução usado da última vez."
+    },
+    "memoria-do-assistente-de-faixa": {
+      "name": "Memória do assistente de faixa",
+      "category": "Assistentes de condução",
+      "effect": "Consulta se o assistente pode recuperar a configuração escolhida pelo motorista.",
+      "restriction": "Requer assistente de faixa de fábrica."
+    },
+    "ponto-de-intervencao-do-assistente-de-faixa": {
+      "name": "Ponto de intervenção do assistente de faixa",
+      "category": "Assistentes de condução",
+      "effect": "Consulta o momento de atuação da correção de direção com a câmera de faixa.",
+      "restriction": "Requer câmera e assistente de faixa compatíveis."
+    },
+    "centralizacao-na-faixa": {
+      "name": "Centralização na faixa",
+      "category": "Assistentes de condução",
+      "effect": "Consulta a disponibilidade da assistência para manter o carro centralizado quando o sistema está ativo.",
+      "restriction": "Requer câmera, assistente de faixa e software compatíveis."
+    },
+    "passos-de-1-km-h-no-piloto-automatico": {
+      "name": "Passos de 1 km/h no piloto automático",
+      "category": "Assistentes de condução",
+      "effect": "Permite consultar o ajuste fino da velocidade programada no piloto automático compatível."
+    },
+    "piloto-convencional-junto-com-o-adaptativo": {
+      "name": "Piloto convencional junto com o adaptativo",
+      "category": "Assistentes de condução",
+      "effect": "Consulta se o carro permite escolher entre manter a velocidade ou acompanhar o veículo à frente."
+    },
+    "abertura-completa-do-teto-pela-chave": {
+      "name": "Abertura completa do teto pela chave",
+      "category": "Conforto",
+      "effect": "Consulta se o comando remoto pode abrir o teto solar todo."
+    },
+    "vidros-pela-macaneta-sem-chave": {
+      "name": "Vidros pela maçaneta sem chave",
+      "category": "Conforto",
+      "effect": "Consulta o fechamento ou a abertura dos vidros pelo sensor da maçaneta com a chave próxima.",
+      "restriction": "Requer sensor na maçaneta e acesso sem chave."
+    },
+    "vidros-apos-desligar-a-ignicao": {
+      "name": "Vidros após desligar a ignição",
+      "category": "Conforto",
+      "effect": "Ajusta se os comandos dos vidros continuam a funcionar por um período depois de desligar o carro."
+    },
+    "configuracao-do-start-stop": {
+      "name": "Configuração do start-stop",
+      "category": "Conforto",
+      "effect": "Consulta as opções que o software oferece para o desligamento automático do motor nas paradas."
+    },
+    "reinicio-do-lembrete-de-revisao": {
+      "name": "Reinício do lembrete de revisão",
+      "category": "Manutenção",
+      "effect": "Consulta zerar o aviso após a manutenção e ajustar o intervalo ao plano do carro."
+    },
+    "carplay-e-android-auto-sem-fio": {
+      "name": "CarPlay e Android Auto sem fio",
+      "category": "Multimídia",
+      "effect": "Consulta o espelhamento do celular sem cabo, conforme o aparelho e a central.",
+      "restriction": "Pode depender da licença original, do celular e da versão da central."
+    },
+    "configuracao-de-audio-da-central": {
+      "name": "Configuração de áudio da central",
+      "category": "Multimídia",
+      "effect": "Consulta perfis de som adequados aos alto-falantes instalados no veículo."
+    },
+    "alerta-de-saida-ao-abrir-a-porta": {
+      "name": "Alerta de saída ao abrir a porta",
+      "category": "Segurança",
+      "effect": "Verifica se os sensores podem avisar da aproximação de outro veículo antes de abrir a porta.",
+      "restriction": "Requer sensores traseiros e módulos compatíveis com o alerta de saída."
+    },
+    "temperatura-do-aquecimento-dos-bancos": {
+      "name": "Temperatura do aquecimento dos bancos",
+      "category": "Climatização",
+      "effect": "Consulta os níveis de calor em veículos com bancos aquecidos.",
+      "restriction": "Requer bancos com aquecimento."
+    },
+    "memoria-das-configuracoes-do-ar-condicionado": {
+      "name": "Memória das configurações do ar-condicionado",
+      "category": "Climatização",
+      "effect": "Consulta recuperar os ajustes de climatização no próximo uso do carro."
+    },
+    "bipe-da-tampa-traseira-eletrica": {
+      "name": "Bipe da tampa traseira elétrica",
+      "category": "Avisos sonoros",
+      "effect": "Consulta o comportamento do som de aviso da abertura ou fechamento elétrico.",
+      "restriction": "Requer porta-malas com acionamento elétrico."
+    },
+    "aviso-sonoro-ao-engatar-a-re": {
+      "name": "Aviso sonoro ao engatar a ré",
+      "category": "Avisos sonoros",
+      "effect": "Consulta o som que indica a marcha a ré nos carros com esse sinal."
+    },
+    "seta-traseira-sequencial": {
+      "name": "Seta traseira sequencial",
+      "category": "Iluminação",
+      "effect": "Consulta a configuração para lanternas que têm a iluminação progressiva compatível.",
+      "restriction": "Requer lanternas compatíveis com seta sequencial."
+    },
+    "assistente-de-manobra-com-reboque": {
+      "name": "Assistente de manobra com reboque",
+      "category": "Assistentes de condução",
+      "effect": "Verifica se a câmera, o assistente de estacionamento e o engate permitem a assistência em ré.",
+      "restriction": "A referência exige câmera, assistente de estacionamento e engate de fábrica."
+    },
+    "banco-do-motorista-recua-para-facilitar-a-entrada": {
+      "name": "Banco do motorista recua para facilitar a entrada",
+      "category": "Conforto",
+      "effect": "Consulta o afastamento automático em bancos elétricos compatíveis com memória.",
+      "restriction": "Requer banco elétrico com memória compatível."
+    },
+    "velocidade-digital-no-painel": {
+      "name": "Velocidade digital no painel",
+      "category": "Painel",
+      "effect": "Mostra em números a velocidade atual do carro."
+    },
+    "menu-de-distancia-do-piloto-adaptativo": {
+      "name": "Menu de distância do piloto adaptativo",
+      "category": "Assistentes de condução",
+      "effect": "Consulta a disponibilidade do ajuste de distância de acompanhamento no menu do ACC.",
+      "restriction": "Requer piloto automático adaptativo (ACC)."
+    },
+    "ativacao-e-som-dos-sensores-de-estacionamento": {
+      "name": "Ativação e som dos sensores de estacionamento",
+      "category": "Assistentes de condução",
+      "effect": "Ajusta quando o sistema instalado liga em manobras e como emite os bipes.",
+      "restriction": "Requer sensores de estacionamento de fábrica compatíveis."
+    },
+    "vidros-pelo-controle-da-chave": {
+      "name": "Vidros pelo controle da chave",
+      "category": "Conforto",
+      "effect": "Consulta subir ou baixar os vidros elétricos pelo controle remoto."
+    },
+    "aviso-de-velocidade-programada": {
+      "name": "Aviso de velocidade programada",
+      "category": "Avisos sonoros",
+      "effect": "Ajusta o aviso emitido quando o veículo chega à velocidade configurada."
+    },
+    "alarme-original-com-sinal-sonoro": {
+      "name": "Alarme original com sinal sonoro",
+      "category": "Travas",
+      "effect": "Consulta se o alarme pode sinalizar uma abertura indevida com a sirene ou buzina."
+    },
+    "travar-ao-rodar-e-destravar-em-p": {
+      "name": "Travar ao rodar e destravar em P",
+      "category": "Travas",
+      "effect": "Consulta o travamento automático em movimento e a liberação em P no câmbio automático."
+    },
+    "liberar-a-tampa-traseira-pela-chave": {
+      "name": "Liberar a tampa traseira pela chave",
+      "category": "Travas",
+      "effect": "Destrava o porta-malas separadamente pelo botão do controle."
+    },
+    "luzes-na-area-dos-pes": {
+      "name": "Luzes na área dos pés",
+      "category": "Instalação e configuração",
+      "effect": "Consulta a instalação e a configuração dos pontos de luz na parte baixa da cabine.",
+      "restriction": "Pode exigir luminárias, chicote e instalação."
+    }
+  }
+}
